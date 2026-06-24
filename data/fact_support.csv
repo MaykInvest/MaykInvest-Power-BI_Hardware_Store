@@ -1,0 +1,201 @@
+﻿ticket_id,customer_id,created_date,created_time,category,status,priority,days_open,resolved_date,satisfaction_score,contact_channel,assigned_agent
+TKT0001,CUS0191,2024-02-13,08:20,Warranty,Open,High,21,2024-03-05,4.0,Chat,Agent B
+TKT0002,CUS0216,2024-08-31,09:11,Delivery,Resolved,Medium,10,2024-09-10,3.0,In-Person,Agent E
+TKT0003,CUS0096,2022-02-14,15:37,Return Request,Closed,Critical,14,2022-02-28,5.0,In-Person,Agent B
+TKT0004,CUS0130,2024-02-04,14:19,Technical Support,In Progress,Low,19,2024-02-23,3.0,In-Person,Agent D
+TKT0005,CUS0138,2024-03-31,16:10,Delivery,Escalated,Medium,18,2024-04-18,,Email,Agent B
+TKT0006,CUS0171,2022-04-21,10:51,Delivery,Closed,Critical,2,2022-04-23,2.0,Email,Agent D
+TKT0007,CUS0001,2022-10-30,12:19,Technical Support,In Progress,Medium,6,2022-11-05,5.0,Email,Agent D
+TKT0008,CUS0047,2023-05-17,13:00,Product Info,In Progress,High,4,2023-05-21,4.0,Chat,Agent D
+TKT0009,CUS0282,2024-03-18,15:42,Product Info,Closed,Medium,22,2024-04-09,1.0,Chat,Agent D
+TKT0010,CUS0066,2023-10-14,14:49,Delivery,Resolved,Critical,24,2023-11-07,5.0,In-Person,Agent E
+TKT0011,CUS0037,2023-12-12,17:01,Billing,Escalated,Medium,15,2023-12-27,4.0,Email,Agent C
+TKT0012,CUS0186,2023-11-28,17:38,Product Info,Open,Medium,16,2023-12-14,5.0,Email,Agent D
+TKT0013,CUS0097,2022-04-01,09:21,Product Info,In Progress,Critical,6,2022-04-07,99.0,Email,Agent C
+TKT0014,CUS0160,2024-03-03,08:16,Product Info,In Progress,Medium,21,2024-03-24,5.0,In-Person,Agent E
+TKT0015,CUS0055,2024-08-10,09:41,Product Info,Open,Medium,25,2024-09-04,,Phone,Agent B
+TKT0016,CUS0295,2024-11-04,08:31,Warranty,Closed,Critical,12,2024-11-16,4.0,Chat,Agent C
+TKT0017,CUS0218,2023-06-14,17:51,Product Info,Escalated,High,23,2023-07-07,4.0,In-Person,Agent C
+TKT0018,CUS0274,2024-01-18,14:34,Product Info,Open,Medium,3,2024-01-21,5.0,Chat,Agent C
+TKT0019,CUS0133,2023-02-09,15:27,Technical Support,Closed,High,16,2023-02-25,5.0,Chat,Agent A
+TKT0020,CUS0251,2024-07-31,17:43,Delivery,Resolved,Critical,11,2024-08-11,,Phone,Agent C
+TKT0021,CUS0013,2023-07-02,14:01,Product Info,Resolved,High,-4,2023-07-07,99.0,Chat,Agent E
+TKT0022,CUS0058,2024-01-02,14:15,Billing,Open,Low,23,2024-01-25,,Email,Agent B
+TKT0023,CUS0253,2024-06-01,15:44,Return Request,In Progress,Critical,28,2024-06-29,2.0,Chat,Agent A
+TKT0024,CUS0168,2024-02-03,09:24,Return Request,Open,High,-2,2024-02-04,,Phone,Agent D
+TKT0025,CUS0206,2022-02-15,12:46,Warranty,Open,Critical,5,2022-02-20,5.0,Chat,Agent B
+TKT0026,CUS0293,2023-06-19,16:54,Billing,Open,High,9,2023-06-28,4.0,In-Person,Agent B
+TKT0027,CUS0224,2023-07-17,10:17,Return Request,Open,Critical,23,2023-08-09,4.0,Email,Agent C
+TKT0028,CUS0140,2022-01-11,14:42,Billing,Resolved,High,13,2022-01-24,1.0,In-Person,Agent E
+TKT0029,CUS0163,2022-07-18,13:14,Technical Support,Escalated,High,7,2022-07-25,1.0,In-Person,Agent E
+TKT0030,CUS0216,2023-11-05,16:00,Delivery,Resolved,High,17,2023-11-22,3.0,Phone,Agent D
+TKT0031,CUS0078,2024-08-04,11:34,Warranty,In Progress,Critical,27,2024-08-31,4.0,Phone,Agent D
+TKT0032,CUS0017,2022-06-10,13:05,Billing,Escalated,High,20,2022-06-30,4.0,Phone,Agent C
+TKT0033,CUS0162,2024-07-13,10:39,Return Request,In Progress,High,21,2024-08-03,3.0,In-Person,Agent D
+TKT0034,CUS0012,2023-08-05,11:24,Return Request,In Progress,Critical,17,2023-08-22,4.0,Chat,Agent A
+TKT0035,CUS0203,2023-03-24,17:18,Billing,In Progress,Critical,6,2023-03-30,5.0,In-Person,Agent C
+TKT0036,CUS0112,2024-05-06,13:49,Delivery,Open,High,28,2024-06-03,4.0,In-Person,Agent B
+TKT0037,CUS0207,2024-10-10,15:10,Billing,Closed,High,24,2024-11-03,3.0,Chat,Agent E
+TKT0038,CUS0172,2024-08-08,09:24,Return Request,Closed,Critical,20,2024-08-28,,In-Person,Agent B
+TKT0039,CUS0015,2023-04-05,16:05,Return Request,Escalated,Critical,4,2023-04-09,4.0,Chat,Agent C
+TKT0040,CUS0128,2022-12-07,09:23,Technical Support,Escalated,Critical,18,2022-12-25,4.0,Email,Agent B
+TKT0041,CUS0235,2024-01-26,10:30,Warranty,In Progress,High,23,2024-02-18,5.0,Email,Agent C
+TKT0042,CUS0034,2022-03-05,15:15,Warranty,Escalated,Critical,6,2022-03-11,4.0,Email,Agent B
+TKT0043,CUS0237,2024-10-21,17:53,Delivery,In Progress,Medium,20,2024-11-10,,In-Person,Agent A
+TKT0044,CUS0004,2022-03-08,16:30,Product Info,Open,Critical,21,2022-03-29,4.0,Phone,Agent E
+TKT0045,CUS0062,2024-12-29,15:52,Warranty,Open,High,22,2025-01-20,,In-Person,Agent A
+TKT0046,CUS0187,2024-03-29,15:27,Technical Support,Open,Medium,22,2024-04-20,5.0,Phone,Agent E
+TKT0047,CUS0058,2022-12-13,13:09,Billing,Closed,Medium,11,2022-12-24,3.0,Phone,Agent A
+TKT0048,CUS0169,2022-06-01,15:48,Billing,Resolved,High,-2,2022-06-15,5.0,Phone,Agent D
+TKT0049,CUS0170,2024-07-11,12:38,Technical Support,In Progress,Medium,22,2024-08-02,2.0,Phone,Agent A
+TKT0050,CUS0114,2024-01-30,12:19,Warranty,In Progress,High,18,2024-02-17,3.0,In-Person,Agent D
+TKT0051,CUS0151,2022-11-13,10:09,Return Request,Resolved,Critical,23,2022-12-06,5.0,Phone,Agent B
+TKT0052,CUS0015,2023-03-10,17:00,Delivery,Resolved,Critical,-1,2023-03-28,2.0,In-Person,Agent E
+TKT0053,CUS0088,2023-12-06,16:20,Return Request,Resolved,Critical,20,2023-12-26,,In-Person,Agent B
+TKT0054,CUS0269,2024-09-14,14:00,Warranty,Open,High,5,2024-09-19,4.0,Email,Agent C
+TKT0055,CUS0106,2023-04-05,09:41,Billing,Resolved,Critical,4,2023-04-09,2.0,In-Person,Agent E
+TKT0056,CUS0007,2024-12-09,11:23,Warranty,Open,Critical,28,2025-01-06,1.0,Chat,Agent C
+TKT0057,CUS0260,2022-05-18,16:54,Warranty,Escalated,Low,8,2022-05-26,4.0,Chat,Agent D
+TKT0058,CUS0291,2024-12-06,10:44,Warranty,In Progress,Medium,7,2024-12-13,1.0,In-Person,Agent B
+TKT0059,CUS0021,2023-06-29,11:46,Technical Support,In Progress,High,17,2023-07-16,2.0,Chat,Agent B
+TKT0060,CUS0117,2023-05-15,15:29,Technical Support,Escalated,Low,18,2023-06-02,4.0,Phone,Agent A
+TKT0061,CUS0101,2024-09-06,15:12,Technical Support,Escalated,Medium,3,2024-09-09,3.0,In-Person,Agent C
+TKT0062,CUS0292,2022-01-20,09:46,Product Info,In Progress,Critical,18,2022-02-07,3.0,Chat,Agent C
+TKT0063,CUS0209,2023-07-09,13:32,Product Info,Escalated,High,15,2023-07-24,4.0,Phone,Agent C
+TKT0064,CUS0273,2023-05-25,16:32,Delivery,Closed,Low,10,2023-06-04,2.0,Email,Agent D
+TKT0065,CUS0004,2023-10-16,15:31,Billing,In Progress,Low,28,2023-11-13,5.0,In-Person,Agent C
+TKT0066,CUS0049,2024-06-26,16:52,Billing,In Progress,Low,10,2024-07-06,4.0,Email,Agent B
+TKT0067,CUS0158,2024-10-24,16:30,Technical Support,Resolved,Medium,9,2024-11-02,2.0,Email,Agent C
+TKT0068,CUS0081,2023-01-29,10:54,Billing,Escalated,Medium,24,2023-02-22,3.0,Phone,Agent E
+TKT0069,CUS0243,2024-05-03,11:59,Delivery,Closed,High,24,2024-05-27,4.0,Phone,Agent B
+TKT0070,CUS0157,2023-11-15,13:28,Delivery,Closed,Critical,23,2023-12-08,3.0,In-Person,Agent A
+TKT0071,CUS0207,2022-04-24,10:29,Delivery,Open,Medium,30,2022-05-24,3.0,Email,Agent C
+TKT0072,CUS0151,2024-02-04,14:20,Return Request,Escalated,Medium,0,,2.0,Email,Agent E
+TKT0073,CUS0258,2024-06-20,09:15,Billing,Resolved,Critical,27,2024-07-17,2.0,In-Person,Agent A
+TKT0074,CUS0200,2024-09-24,17:37,Product Info,Open,Low,7,2024-10-01,2.0,Chat,Agent C
+TKT0075,CUS0142,2024-01-27,09:30,Billing,Open,High,14,2024-02-10,5.0,In-Person,Agent B
+TKT0076,CUS0078,2023-09-05,09:28,Billing,Resolved,High,18,2023-09-23,,Phone,Agent A
+TKT0077,CUS0072,2022-05-20,13:54,Delivery,Closed,Medium,27,2022-06-16,5.0,Email,Agent C
+TKT0078,CUS0240,2023-04-12,11:43,Warranty,Resolved,High,14,2023-04-26,3.0,Chat,Agent B
+TKT0079,CUS0062,2024-04-21,15:51,Technical Support,Escalated,Low,13,2024-05-04,3.0,Phone,Agent A
+TKT0080,CUS0290,2024-06-14,13:50,Return Request,Closed,High,1,2024-06-15,5.0,Phone,Agent A
+TKT0081,CUS0039,2022-07-08,16:10,Return Request,Open,Critical,17,2022-07-25,5.0,Email,Agent A
+TKT0082,CUS0221,2023-07-22,10:41,Delivery,Open,Medium,14,2023-08-05,3.0,Phone,Agent D
+TKT0083,CUS9999,2024-06-04,17:18,Technical Support,Escalated,Critical,28,2024-07-02,,Chat,Agent A
+TKT0084,CUS0116,2023-10-23,11:37,Warranty,Resolved,Critical,13,2023-11-05,,Email,Agent E
+TKT0085,CUS0182,2022-11-09,11:19,Billing,Open,Low,6,2022-11-15,4.0,Chat,Agent B
+TKT0086,CUS0277,2023-12-15,13:59,Billing,In Progress,Medium,30,2024-01-14,,Phone,Agent B
+TKT0087,CUS0218,2023-07-10,11:49,Delivery,Open,Medium,7,2023-07-17,5.0,In-Person,Agent A
+TKT0088,CUS0193,2022-02-22,11:24,Technical Support,Closed,Critical,14,2022-03-08,5.0,In-Person,Agent B
+TKT0089,CUS0106,2024-02-19,09:11,Return Request,Escalated,Low,18,2024-03-08,5.0,Email,Agent B
+TKT0090,CUS0062,2024-09-28,13:26,Billing,In Progress,Low,23,2024-10-21,4.0,Phone,Agent D
+TKT0091,CUS0131,2024-11-07,08:00,Product Info,Closed,Critical,3,2024-11-10,5.0,Chat,Agent C
+TKT0092,CUS0185,2023-09-27,12:14,Warranty,Open,Critical,26,2023-10-23,,In-Person,Agent A
+TKT0093,CUS0141,2023-10-25,11:11,Return Request,Open,Medium,1,2023-10-26,,Email,Agent B
+TKT0094,CUS0241,2022-03-21,11:55,Warranty,Resolved,High,1,2022-03-22,4.0,In-Person,Agent B
+TKT0095,CUS0215,2022-12-20,10:47,Warranty,In Progress,High,5,2022-12-25,5.0,Chat,Agent B
+TKT0096,CUS0016,2024-10-15,13:58,Delivery,Escalated,High,6,2024-10-21,2.0,Chat,Agent A
+TKT0097,CUS0170,2022-02-28,10:58,Product Info,Open,Critical,28,2022-03-28,3.0,Email,Agent B
+TKT0098,CUS0052,2022-01-31,09:26,Technical Support,Open,Critical,11,2022-02-11,5.0,In-Person,Agent D
+TKT0099,CUS0275,2024-06-20,08:19,Product Info,Closed,High,4,2024-06-24,5.0,Email,Agent C
+TKT0100,CUS0277,2024-01-19,09:30,Product Info,Escalated,Medium,30,2024-02-18,99.0,Email,Agent B
+TKT0101,CUS0264,2022-09-23,11:42,Technical Support,Open,Critical,25,2022-10-18,5.0,Phone,Agent E
+TKT0102,CUS0054,2023-05-27,12:21,Warranty,Closed,High,7,2023-06-03,2.0,Email,Agent C
+TKT0103,CUS0217,2024-02-07,08:47,Product Info,Open,Medium,21,2024-02-28,,Email,Agent A
+TKT0104,CUS0074,2022-03-11,10:25,Delivery,Open,Critical,26,2022-04-06,5.0,In-Person,Agent C
+TKT0105,CUS0097,2024-04-10,15:39,Delivery,Escalated,Critical,14,2024-04-24,5.0,Chat,Agent C
+TKT0106,CUS0264,2023-11-22,10:16,Delivery,Closed,Critical,10,2023-12-02,5.0,Chat,Agent C
+TKT0107,CUS0266,2023-06-23,14:41,Technical Support,Escalated,Medium,2,2023-06-25,5.0,Chat,Agent B
+TKT0108,CUS0235,2022-08-16,12:08,Delivery,Resolved,Critical,3,2022-08-19,4.0,In-Person,Agent E
+TKT0109,CUS0043,2024-10-30,16:12,Billing,In Progress,Low,5,2024-11-04,3.0,Email,Agent C
+TKT0110,CUS0270,2022-11-07,16:03,Return Request,Resolved,Medium,18,2022-11-25,5.0,Email,Agent C
+TKT0111,CUS0082,2022-07-25,17:14,Warranty,In Progress,Critical,21,2022-08-15,,Email,Agent C
+TKT0112,CUS0026,2024-03-31,16:26,Product Info,Closed,High,9,2024-04-09,3.0,Email,Agent C
+TKT0113,CUS0001,2022-06-03,12:13,Warranty,Escalated,Low,8,2022-06-11,4.0,Chat,Agent D
+TKT0114,CUS0072,2022-10-22,11:25,Billing,Closed,Critical,15,2022-11-06,5.0,Email,Agent B
+TKT0115,CUS0180,2022-05-25,12:08,Product Info,Open,Medium,7,2022-06-01,5.0,Email,Agent D
+TKT0116,CUS0073,2023-07-19,09:33,Delivery,Escalated,Low,24,2023-08-12,2.0,In-Person,Agent B
+TKT0117,CUS0225,2023-09-04,17:29,Billing,Open,High,26,2023-09-30,,Phone,Agent A
+TKT0118,CUS0196,2023-06-08,14:37,Billing,Closed,High,3,2023-06-11,4.0,Email,Agent E
+TKT0119,CUS0053,2022-07-01,17:55,Delivery,In Progress,Critical,23,2022-07-24,4.0,In-Person,Agent D
+TKT0120,CUS0030,2022-08-04,12:57,Delivery,Escalated,High,27,2022-08-31,4.0,In-Person,Agent C
+TKT0121,CUS0183,2022-06-20,15:15,Return Request,Closed,Medium,0,,,In-Person,Agent C
+TKT0122,CUS0054,2024-09-26,17:24,Return Request,Escalated,Critical,17,2024-10-13,4.0,Chat,Agent E
+TKT0123,CUS0056,2022-07-21,11:23,Return Request,Escalated,Critical,18,2022-08-08,,In-Person,Agent A
+TKT0124,CUS0178,2024-06-20,16:02,Product Info,Closed,Low,27,2024-07-17,3.0,Email,Agent E
+TKT0125,CUS0093,2022-02-19,09:18,Product Info,Open,Critical,20,2022-03-11,5.0,Phone,Agent C
+TKT0126,CUS0177,2023-12-23,15:50,Technical Support,Resolved,Critical,30,2024-01-22,1.0,Phone,Agent B
+TKT0127,CUS0108,2023-10-22,13:49,Billing,Closed,Low,23,2023-11-14,3.0,Phone,Agent C
+TKT0128,CUS0276,2023-04-12,09:58,Warranty,Open,Critical,10,2023-04-22,5.0,Phone,Agent E
+TKT0129,CUS0255,2023-01-17,12:54,Warranty,Closed,High,24,2023-02-10,3.0,Phone,Agent D
+TKT0130,CUS0186,2022-11-23,08:07,Billing,Escalated,High,30,2022-12-23,,Phone,Agent E
+TKT0131,CUS0276,2022-12-31,09:12,Technical Support,Open,Critical,12,2023-01-12,4.0,Phone,Agent B
+TKT0132,CUS0175,2024-12-27,14:06,Warranty,Resolved,Low,11,2025-01-07,3.0,Phone,Agent B
+TKT0133,CUS0227,2022-03-25,12:01,Product Info,In Progress,Medium,7,2022-04-01,4.0,Email,Agent B
+TKT0134,CUS0226,2023-03-19,11:01,Return Request,Closed,Critical,4,2023-03-23,,In-Person,Agent E
+TKT0135,CUS0283,2023-01-29,16:37,Product Info,Escalated,Critical,13,2023-02-11,,Phone,Agent C
+TKT0136,CUS9999,2024-06-02,11:20,Return Request,Resolved,Low,11,2024-06-13,3.0,Email,Agent C
+TKT0137,CUS0127,2022-09-21,16:45,Product Info,Escalated,High,3,2022-09-24,5.0,Chat,Agent E
+TKT0138,CUS0117,2023-12-15,16:52,Billing,Closed,High,22,2024-01-06,4.0,Chat,Agent D
+TKT0139,CUS0225,2024-10-15,10:01,Return Request,Closed,Low,18,2024-11-02,3.0,Phone,Agent D
+TKT0140,CUS0076,2022-05-11,12:36,Delivery,Open,Critical,21,2022-06-01,3.0,In-Person,Agent B
+TKT0141,CUS0203,2023-03-17,16:44,Warranty,Resolved,High,21,2023-04-07,3.0,Email,Agent E
+TKT0142,CUS0261,2024-04-13,17:20,Technical Support,Escalated,Low,4,2024-04-17,4.0,Phone,Agent E
+TKT0143,CUS0062,2022-05-26,14:46,Billing,In Progress,Medium,19,2022-06-14,,Email,Agent B
+TKT0144,CUS0016,2024-10-10,09:06,Product Info,Escalated,Critical,23,2024-11-02,,In-Person,Agent D
+TKT0145,CUS0243,2022-10-11,09:19,Delivery,In Progress,Critical,27,2022-11-07,3.0,Phone,Agent D
+TKT0146,CUS0047,2023-01-13,11:22,Warranty,Open,High,8,2023-01-21,3.0,In-Person,Agent A
+TKT0147,CUS0269,2023-06-12,08:35,Technical Support,Resolved,Low,0,,5.0,Email,Agent A
+TKT0148,CUS0271,2022-01-26,12:01,Return Request,Escalated,High,0,,2.0,Chat,Agent B
+TKT0149,CUS0097,2024-10-17,13:06,Warranty,In Progress,High,5,2024-10-22,4.0,Email,Agent D
+TKT0150,CUS0091,2024-11-05,15:01,Return Request,Open,Low,4,2024-11-09,5.0,Phone,Agent C
+TKT0151,CUS0056,2023-12-16,16:10,Technical Support,Closed,Medium,21,2024-01-06,,Email,Agent E
+TKT0152,CUS0173,2024-07-20,14:50,Product Info,Open,Low,29,2024-08-18,4.0,Phone,Agent B
+TKT0153,CUS0188,2022-10-17,15:12,Product Info,Open,High,7,2022-10-24,5.0,Chat,Agent D
+TKT0154,CUS0051,2024-11-30,13:58,Return Request,Escalated,Critical,2,2024-12-02,4.0,Email,Agent C
+TKT0155,CUS0165,2022-10-05,12:40,Product Info,Closed,Critical,14,2022-10-19,4.0,In-Person,Agent A
+TKT0156,CUS0252,2022-02-18,16:30,Return Request,Closed,High,15,2022-03-05,,In-Person,Agent C
+TKT0157,CUS0029,2024-12-16,09:19,Return Request,Escalated,Medium,26,2025-01-11,,Phone,Agent A
+TKT0158,CUS0274,2022-02-27,14:12,Delivery,Escalated,Low,1,2022-02-28,5.0,In-Person,Agent E
+TKT0159,CUS0269,2023-01-01,08:58,Billing,Open,Critical,16,2023-01-17,3.0,Email,Agent B
+TKT0160,CUS0164,2022-05-30,11:36,Warranty,Escalated,Low,22,2022-06-21,1.0,Chat,Agent D
+TKT0161,CUS9999,2022-08-27,11:42,Delivery,In Progress,Critical,29,2022-09-25,2.0,Email,Agent C
+TKT0162,CUS0206,2022-04-02,11:39,Warranty,Resolved,Critical,4,2022-04-06,,Phone,Agent B
+TKT0163,CUS0140,2024-04-18,14:24,Delivery,In Progress,Critical,22,2024-05-10,,Phone,Agent E
+TKT0164,CUS0006,2024-03-20,15:08,Warranty,In Progress,Low,1,2024-03-21,4.0,Chat,Agent A
+TKT0165,CUS0082,2024-09-27,13:10,Warranty,Resolved,Critical,2,2024-09-29,,Phone,Agent E
+TKT0166,CUS0147,2023-08-07,09:48,Technical Support,Closed,Medium,27,2023-09-03,4.0,Chat,Agent E
+TKT0167,CUS0255,2023-02-16,08:30,Product Info,Open,Low,4,2023-02-20,4.0,Email,Agent A
+TKT0168,CUS0199,2023-01-13,09:15,Product Info,Escalated,High,2,2023-01-15,4.0,In-Person,Agent B
+TKT0169,CUS0227,2022-03-26,11:49,Billing,Resolved,Low,21,2022-04-16,5.0,Chat,Agent B
+TKT0170,CUS0175,2023-05-29,15:12,Warranty,Open,Critical,29,2023-06-27,,In-Person,Agent B
+TKT0171,CUS0150,2024-11-01,11:21,Warranty,Closed,Low,2,2024-11-03,1.0,In-Person,Agent A
+TKT0172,CUS0126,2024-12-18,10:35,Delivery,Open,Low,9,2024-12-27,4.0,Chat,Agent D
+TKT0173,CUS0266,2024-12-30,10:46,Delivery,Resolved,Low,0,,4.0,Email,Agent A
+TKT0174,CUS0120,2022-01-13,08:52,Product Info,Escalated,Low,12,2022-01-25,,Email,Agent A
+TKT0175,CUS0289,2022-06-01,15:59,Return Request,Closed,High,0,,4.0,In-Person,Agent D
+TKT0176,CUS0122,2024-10-01,15:30,Billing,Closed,High,19,2024-10-20,2.0,Email,Agent B
+TKT0177,CUS0147,2022-12-24,12:56,Billing,Resolved,Low,30,2023-01-23,5.0,In-Person,Agent C
+TKT0178,CUS0074,2022-03-29,16:54,Billing,Closed,Medium,14,2022-04-12,3.0,Phone,Agent B
+TKT0179,CUS0208,2024-05-12,15:28,Product Info,Closed,High,28,2024-06-09,3.0,Phone,Agent C
+TKT0180,CUS0205,2022-09-30,11:13,Warranty,In Progress,Medium,23,2022-10-23,4.0,Phone,Agent D
+TKT0181,CUS0281,2024-04-16,11:25,Billing,Closed,Low,11,2024-04-27,4.0,In-Person,Agent C
+TKT0182,CUS0212,2022-04-15,16:56,Billing,Closed,Critical,6,2022-04-21,1.0,Email,Agent D
+TKT0183,CUS0013,2023-02-27,10:17,Warranty,Escalated,Medium,12,2023-03-11,4.0,In-Person,Agent E
+TKT0184,CUS0102,2022-11-05,11:55,Warranty,In Progress,Critical,13,2022-11-18,99.0,Phone,Agent E
+TKT0185,CUS0272,2022-03-14,09:05,Technical Support,Open,Low,21,2022-04-04,,Phone,Agent A
+TKT0186,CUS0161,2024-01-01,11:19,Technical Support,Resolved,High,6,2024-01-07,4.0,In-Person,Agent D
+TKT0187,CUS0174,2022-12-25,16:10,Billing,In Progress,Critical,9,2023-01-03,2.0,Chat,Agent E
+TKT0188,CUS0210,2022-11-21,15:44,Delivery,In Progress,Low,17,2022-12-08,4.0,Email,Agent D
+TKT0189,CUS0050,2022-03-22,15:24,Product Info,In Progress,Low,4,2022-03-26,5.0,Phone,Agent D
+TKT0190,CUS0300,2023-01-08,15:42,Return Request,Resolved,High,14,2023-01-22,5.0,Chat,Agent C
+TKT0191,CUS0036,2022-12-29,14:58,Billing,Open,Medium,-1,2023-01-02,4.0,Phone,Agent C
+TKT0192,CUS0043,2023-12-28,15:01,Return Request,Escalated,Critical,19,2024-01-16,5.0,Email,Agent C
+TKT0193,CUS0130,2023-01-29,16:57,Technical Support,Closed,High,16,2023-02-14,2.0,Email,Agent A
+TKT0194,CUS0123,2023-09-20,14:21,Technical Support,Resolved,Critical,8,2023-09-28,3.0,Chat,Agent C
+TKT0195,CUS0283,2022-03-06,17:00,Warranty,Escalated,Low,4,2022-03-10,5.0,Phone,Agent D
+TKT0196,CUS0103,2024-08-20,12:44,Product Info,Resolved,High,12,2024-09-01,3.0,In-Person,Agent D
+TKT0197,CUS0176,2022-09-29,12:35,Billing,Closed,High,30,2022-10-29,3.0,Phone,Agent A
+TKT0198,CUS0231,2022-06-23,13:55,Return Request,Open,Low,25,2022-07-18,4.0,Email,Agent A
+TKT0199,CUS0125,2022-06-02,10:36,Billing,Open,Low,5,2022-06-07,3.0,Chat,Agent A
+TKT0200,CUS0175,2022-05-25,15:40,Delivery,Open,Low,4,2022-05-29,4.0,Chat,Agent B

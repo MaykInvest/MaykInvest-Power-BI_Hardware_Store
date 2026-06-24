@@ -1,0 +1,121 @@
+﻿return_id,sale_id,product_id,customer_id,sale_date,return_date,original_amount,refund_amount,return_reason,return_status,resolution_type,days_to_return,restocked
+RET0001,109,PRD036,CUS0208,2022-03-05,2022-04-04,1019.99,1019.99,Wrong item received,Pending,Exchange,9,No
+RET0002,624,PRD028,CUS0006,2024-04-21,2024-04-28,436.98,436.98,Better price found,Pending,Exchange,1,Yes
+RET0003,217,PRD017,CUS0183,2022-11-13,2022-11-18,52.24,52.24,Dead on arrival,Replaced,Exchange,29,No
+RET0004,828,PRD049,CUS0104,2023-11-25,2023-12-18,189.99,189.99,Compatibility issue,Replaced,Partial Refund,23,No
+RET0005,321,PRD031,CUS0046,2024-08-10,2020-01-01,879.98,439.99,Better price found,Rejected,Repair,20,Yes
+RET0006,524,PRD034,CUS0154,2024-09-05,2024-09-08,699.99,699.99,Missing parts,Rejected,Exchange,30,No
+RET0007,733,PRD043,CUS0244,2023-07-29,2023-09-08,89.99,44.99,Missing parts,Refunded,Store Credit,25,No
+RET0008,800,PRD020,CUS0219,2024-05-22,2024-07-06,129.99,129.99,Missing parts,Approved,Repair,30,Yes
+RET0009,760,PRD035,CUS0266,2022-01-01,2022-01-11,599.99,599.99,Dead on arrival,Replaced,Store Credit,22,No
+RET0010,521,PRD037,CUS0199,2023-02-14,2023-03-11,289.99,145.0,Compatibility issue,Approved,Repair,24,No
+RET0011,803,PRD020,CUS0252,2022-07-26,2022-08-02,116.99,116.99,Customer changed mind,Refunded,Store Credit,2,No
+RET0012,596,PRD001,CUS0285,2023-05-18,2023-06-06,26.99,13.49,Compatibility issue,Rejected,Partial Refund,5,Yes
+RET0013,730,PRD009,CUS0074,2024-02-28,2024-03-13,109.99,54.99,Dead on arrival,Rejected,Repair,29,No
+RET0014,353,PRD005,CUS0251,2022-02-21,2022-02-28,103.99,51.99,Customer changed mind,Approved,Full Refund,10,No
+RET0015,963,PRD003,CUS0034,2022-11-30,2020-01-01,76.49,38.24,Wrong item received,Approved,Store Credit,30,No
+RET0016,221,PRD050,CUS0179,2022-04-25,2022-06-03,54.99,54.99,Wrong item received,Rejected,Partial Refund,4,Yes
+RET0017,388,PRD001,CUS0190,2024-04-10,2024-05-16,59.98,44.98,Better price found,Approved,Full Refund,20,Yes
+RET0018,851,PRD015,CUS0206,2024-02-13,2024-03-19,134.99,404.97,Better price found,Approved,Full Refund,16,Yes
+RET0019,597,PRD030,CUS0285,2023-05-18,2023-06-11,404.99,404.99,Customer changed mind,Replaced,Exchange,24,No
+RET0020,34,PRD032,CUS0223,2024-12-01,2025-01-04,313.49,313.49,Better price found,Refunded,Store Credit,30,Yes
+RET0021,673,PRD049,CUS0112,2023-08-21,2023-08-29,189.99,95.0,Compatibility issue,Refunded,Store Credit,3,Yes
+RET0022,744,PRD026,CUS0092,2022-04-18,2022-05-06,369.99,277.49,Missing parts,Pending,Store Credit,26,Yes
+RET0023,154,PRD024,CUS0022,2022-01-14,2022-01-29,203.98,152.98,Defective product,Rejected,Partial Refund,17,No
+RET0024,391,PRD042,CUS0188,2024-01-19,2024-02-06,139.99,70.0,,Replaced,Full Refund,23,No
+RET0025,781,PRD033,CUS0284,2022-04-28,2022-05-01,474.99,237.5,Defective product,Replaced,Store Credit,7,Yes
+RET0026,665,PRD011,CUS0168,2024-01-25,2024-03-06,59.98,44.98,Defective product,Approved,Partial Refund,19,No
+RET0027,81,PRD046,CUS0104,2022-04-21,2022-05-06,340.15,255.11,Wrong item received,Rejected,Exchange,5,No
+RET0028,80,PRD041,CUS0104,2022-04-21,2022-05-03,329.97,247.48,Compatibility issue,Rejected,Partial Refund,7,Yes
+RET0029,958,PRD040,CUS0022,2024-05-04,2024-06-07,170.98,128.23,Missing parts,Approved,Full Refund,14,Yes
+RET0030,230,PRD019,CUS0125,2022-06-25,2022-07-27,287.99,215.99,Dead on arrival,Approved,Partial Refund,2,No
+RET0031,579,PRD036,CUS0094,2023-09-17,2023-11-01,2399.98,1199.99,Dead on arrival,Refunded,Repair,8,No
+RET0032,516,PRD017,CUS0048,2022-05-25,2022-06-25,109.98,82.48,Missing parts,Approved,Store Credit,27,Yes
+RET0033,589,PRD046,CUS0093,2022-12-13,2023-01-01,69.99,52.49,Compatibility issue,Refunded,Exchange,20,No
+RET0034,646,PRD009,CUS0131,2022-11-18,2020-01-01,219.98,109.99,Customer changed mind,Pending,Partial Refund,4,No
+RET0035,562,PRD042,CUS0106,2022-10-28,2022-11-24,139.99,70.0,Customer changed mind,Approved,Exchange,4,Yes
+RET0036,752,PRD001,CUS0228,2024-02-22,2024-03-23,28.49,14.24,Missing parts,Pending,Store Credit,23,No
+RET0037,429,PRD009,CUS0181,2024-01-13,2024-01-22,109.99,54.99,Better price found,Refunded,Repair,14,Yes
+RET0038,552,PRD016,CUS0213,2022-09-09,2022-09-11,579.98,289.99,Customer changed mind,Replaced,Partial Refund,29,No
+RET0039,751,PRD008,CUS0207,2023-11-25,2023-11-29,395.98,296.99,Better price found,Rejected,Store Credit,22,No
+RET0040,125,PRD002,CUS0068,2022-05-21,2022-06-17,44.99,22.5,Better price found,Refunded,Exchange,13,No
+RET0041,868,PRD027,CUS0021,2022-10-15,2022-10-19,484.49,242.25,Compatibility issue,Approved,Store Credit,21,Yes
+RET0042,900,PRD050,CUS0067,2022-06-11,2022-07-01,98.98,296.94,Compatibility issue,Approved,Repair,29,Yes
+RET0043,541,PRD034,CUS0249,2023-08-19,2023-09-23,699.99,699.99,Better price found,Pending,Repair,20,No
+RET0044,818,PRD047,CUS0006,2023-08-27,2023-09-05,246.98,185.23,Dead on arrival,Pending,Full Refund,26,No
+RET0045,53,PRD028,CUS0266,2023-04-04,2023-04-10,229.99,172.49,Customer changed mind,Rejected,Repair,3,Yes
+RET0046,622,PRD025,CUS0006,2024-04-21,2024-05-25,199.99,199.99,Customer changed mind,Replaced,Partial Refund,6,No
+RET0047,484,PRD029,CUS0063,2024-01-14,2024-01-29,279.99,140.0,Better price found,Approved,Store Credit,11,No
+RET0048,676,PRD032,CUS0168,2022-08-23,2022-09-06,329.99,247.49,Missing parts,Approved,Full Refund,2,Yes
+RET0049,538,PRD015,CUS0249,2023-08-19,2023-09-22,142.49,142.49,Dead on arrival,Refunded,Exchange,2,Yes
+RET0050,533,PRD045,CUS0208,2022-12-18,2023-01-06,89.99,44.99,Defective product,Approved,Partial Refund,2,No
+RET0051,452,PRD040,CUS0079,2024-02-23,2024-03-02,80.99,40.49,Missing parts,Refunded,Partial Refund,27,No
+RET0052,325,PRD019,CUS0294,2024-07-18,2024-07-24,303.99,303.99,Defective product,Replaced,Exchange,1,Yes
+RET0053,276,PRD003,CUS0107,2024-08-10,2024-09-14,80.99,60.74,Wrong item received,Pending,Repair,26,No
+RET0054,200,PRD017,CUS0231,2022-11-25,2022-12-08,49.49,37.12,Better price found,Rejected,Store Credit,14,Yes
+RET0055,857,PRD009,CUS0201,2024-10-21,2024-11-10,109.99,54.99,Compatibility issue,Approved,Full Refund,9,No
+RET0056,590,PRD013,CUS0062,2023-06-13,2023-07-08,104.49,52.24,Compatibility issue,Pending,Partial Refund,14,No
+RET0057,301,PRD045,CUS0133,2023-04-20,2023-05-21,199.98,99.99,Missing parts,Replaced,Repair,8,No
+RET0058,933,PRD014,CUS0254,2023-02-26,2023-02-28,79.99,39.99,Missing parts,Refunded,Store Credit,25,Yes
+RET0059,250,PRD013,CUS0252,2024-02-05,2024-03-05,87.99,87.99,Dead on arrival,Pending,Exchange,25,Yes
+RET0060,337,PRD027,CUS0035,2022-01-22,2022-02-20,569.99,1709.97,Compatibility issue,Replaced,Full Refund,21,No
+RET0061,249,PRD011,CUS0252,2024-02-05,2024-02-27,28.49,28.49,,Pending,Full Refund,18,Yes
+RET0062,819,PRD018,CUS0006,2023-08-27,2023-09-10,208.99,104.5,Dead on arrival,Approved,Full Refund,5,No
+RET0063,787,PRD027,CUS0264,2024-10-04,2024-11-13,1139.98,569.99,Dead on arrival,Replaced,Partial Refund,2,No
+RET0064,371,PRD038,CUS0121,2024-11-20,2024-12-07,679.98,339.99,Customer changed mind,Rejected,Partial Refund,2,No
+RET0065,237,PRD046,CUS0150,2024-01-08,2024-02-22,69.99,52.49,Dead on arrival,Refunded,Full Refund,9,Yes
+RET0066,467,PRD038,CUS0297,2023-04-08,2023-05-14,399.99,200.0,Dead on arrival,Refunded,Store Credit,21,Yes
+RET0067,323,PRD027,CUS0294,2024-07-18,2020-01-01,569.99,285.0,Missing parts,Refunded,Repair,18,Yes
+RET0068,767,PRD039,CUS0223,2024-05-09,2024-05-16,999.99,500.0,Missing parts,Pending,Exchange,5,Yes
+RET0069,119,PRD014,CUS0246,2023-11-08,2023-11-19,159.98,119.98,Missing parts,Pending,Partial Refund,7,No
+RET0070,710,PRD037,CUS0037,2024-09-29,2024-10-07,869.97,869.97,Compatibility issue,Refunded,Partial Refund,21,No
+RET0071,247,PRD041,CUS0212,2022-03-02,2022-03-11,98.99,74.24,Better price found,Replaced,Exchange,13,Yes
+RET0072,456,PRD003,CUS0193,2022-09-01,2022-09-20,89.99,89.99,Compatibility issue,Rejected,Store Credit,17,No
+RET0073,962,PRD030,CUS0034,2022-11-30,2023-01-09,449.99,225.0,Dead on arrival,Approved,Partial Refund,10,Yes
+RET0074,902,PRD012,CUS0067,2022-06-11,2022-07-21,152.97,114.73,Customer changed mind,Replaced,Repair,9,No
+RET0075,420,PRD036,CUS0155,2023-08-16,2023-09-15,3239.97,3239.97,Customer changed mind,Approved,Partial Refund,17,No
+RET0076,937,PRD030,CUS0053,2023-09-22,2023-09-23,899.98,2699.94,Compatibility issue,Approved,Partial Refund,16,Yes
+RET0077,82,PRD042,CUS0104,2022-04-21,2022-04-22,139.99,70.0,Missing parts,Approved,Partial Refund,23,Yes
+RET0078,361,PRD049,CUS0071,2022-09-05,2022-10-10,189.99,95.0,Customer changed mind,Pending,Full Refund,20,No
+RET0079,574,PRD008,CUS0081,2023-03-12,2023-04-20,219.99,219.99,Defective product,Rejected,Repair,29,Yes
+RET0080,518,PRD016,CUS0048,2022-05-25,2022-06-17,260.99,195.74,Defective product,Approved,Store Credit,10,No
+RET0081,79,PRD015,CUS0104,2022-04-21,2022-05-29,142.49,106.87,,Rejected,Repair,25,No
+RET0082,925,PRD036,CUS0178,2023-09-09,2023-09-26,1919.98,1439.99,Dead on arrival,Approved,Full Refund,19,Yes
+RET0083,670,PRD030,CUS0127,2022-05-12,2022-05-19,449.99,337.49,Wrong item received,Rejected,Partial Refund,9,Yes
+RET0084,496,PRD012,CUS0097,2023-03-18,2023-03-27,59.99,44.99,Dead on arrival,Refunded,Store Credit,19,No
+RET0085,620,PRD004,CUS0034,2022-03-10,2022-04-19,75.99,56.99,,Approved,Partial Refund,1,Yes
+RET0086,236,PRD033,CUS0150,2024-01-08,2024-01-22,499.99,499.99,Better price found,Replaced,Partial Refund,5,Yes
+RET0087,460,PRD004,CUS0181,2024-10-10,2024-11-10,151.98,151.98,Customer changed mind,Pending,Full Refund,5,No
+RET0088,806,PRD020,CUS0280,2024-07-01,2024-07-29,389.97,292.48,Compatibility issue,Rejected,Store Credit,17,Yes
+RET0089,964,PRD028,CUS0074,2022-11-14,2022-11-30,459.98,344.99,Compatibility issue,Refunded,Exchange,23,No
+RET0090,915,PRD026,CUS0272,2024-04-19,2024-05-12,369.99,185.0,Better price found,Replaced,Store Credit,17,Yes
+RET0091,584,PRD008,CUS0244,2022-04-19,2022-05-28,219.99,219.99,Wrong item received,Rejected,Partial Refund,27,No
+RET0092,848,PRD045,CUS0173,2023-09-06,2023-10-12,99.99,49.99,Compatibility issue,Rejected,Full Refund,18,No
+RET0093,847,PRD042,CUS0173,2023-09-06,2023-10-18,139.99,70.0,Wrong item received,Pending,Store Credit,28,No
+RET0094,129,PRD050,CUS0023,2024-06-02,2024-07-15,54.99,27.5,Missing parts,Refunded,Partial Refund,20,Yes
+RET0095,551,PRD040,CUS0225,2022-08-02,2022-08-27,179.98,89.99,Wrong item received,Pending,Partial Refund,15,No
+RET0096,251,PRD015,CUS0252,2024-02-05,2024-03-10,127.49,127.49,Defective product,Replaced,Store Credit,11,Yes
+RET0097,796,PRD028,CUS0145,2022-01-17,2022-02-10,206.99,103.5,Dead on arrival,Pending,Repair,9,Yes
+RET0098,418,PRD038,CUS0084,2024-05-01,2024-06-12,719.98,359.99,Missing parts,Refunded,Exchange,2,No
+RET0099,691,PRD009,CUS0167,2022-12-18,2023-01-05,329.97,247.48,Defective product,Replaced,Full Refund,28,No
+RET0100,599,PRD044,CUS0259,2023-07-27,2023-09-04,152.99,114.74,Compatibility issue,Refunded,Partial Refund,16,Yes
+RET0101,682,PRD006,CUS0123,2023-02-18,2023-02-21,55.99,28.0,Defective product,Replaced,Partial Refund,23,Yes
+RET0102,142,PRD011,CUS0265,2022-03-10,2022-03-19,80.97,80.97,Compatibility issue,Pending,Full Refund,15,Yes
+RET0103,621,PRD029,CUS0034,2022-03-10,2022-03-31,349.99,349.99,Better price found,Replaced,Store Credit,28,Yes
+RET0104,267,PRD018,CUS0004,2024-04-19,2024-05-31,208.99,156.74,Missing parts,Pending,Store Credit,27,No
+RET0105,815,PRD035,CUS0128,2023-07-08,2023-07-19,599.99,449.99,Missing parts,Rejected,Repair,1,No
+RET0106,294,PRD011,CUS0146,2023-10-15,2023-11-11,25.49,19.12,Missing parts,Pending,Full Refund,7,Yes
+RET0107,350,PRD050,CUS0252,2022-01-08,2022-01-26,43.99,43.99,Wrong item received,Refunded,Full Refund,9,Yes
+RET0108,322,PRD041,CUS0046,2024-08-10,2024-09-24,109.99,82.49,Compatibility issue,Approved,Full Refund,10,No
+RET0109,121,PRD011,CUS0246,2023-11-08,2023-12-14,29.99,14.99,Defective product,Rejected,Exchange,19,Yes
+RET0110,84,PRD005,CUS0282,2023-09-09,2023-10-16,103.99,51.99,Defective product,Pending,Full Refund,6,Yes
+RET0111,419,PRD032,CUS0155,2023-08-16,2023-08-28,329.99,165.0,Dead on arrival,Pending,Partial Refund,26,Yes
+RET0112,432,PRD034,CUS0072,2023-12-15,2023-12-29,664.99,498.74,Customer changed mind,Refunded,Full Refund,29,Yes
+RET0113,921,PRD034,CUS0034,2023-10-21,2023-11-10,699.99,524.99,Missing parts,Approved,Partial Refund,10,Yes
+RET0114,152,PRD017,CUS0121,2023-01-25,2023-02-19,49.49,37.12,Customer changed mind,Approved,Store Credit,5,No
+RET0115,945,PRD011,CUS0138,2022-07-27,2022-08-23,28.49,28.49,Better price found,Approved,Store Credit,29,Yes
+RET0116,507,PRD031,CUS0094,2023-01-22,2023-02-03,522.49,261.25,Customer changed mind,Refunded,Store Credit,3,No
+RET0117,648,PRD030,CUS0173,2022-03-26,2022-04-18,449.99,337.49,Customer changed mind,Rejected,Repair,15,Yes
+RET0118,792,PRD008,CUS0200,2024-03-29,2024-04-01,439.98,329.99,Compatibility issue,Approved,Repair,19,Yes
+RET0119,203,PRD027,CUS0145,2024-10-15,2020-01-01,569.99,285.0,Customer changed mind,Rejected,Partial Refund,11,No
+RET0120,185,PRD048,CUS0123,2023-06-23,2023-06-29,339.98,254.99,Better price found,Approved,Store Credit,7,No

@@ -1,0 +1,51 @@
+﻿product_id,product_name,category,subcategory,brand,supplier_id,unit_price,unit_cost,status,launch_date,warranty
+PRD001,Kingston A400 240GB,Storage,SATA SSD,Kingston,SUP001,29.99,13.5,active,2021-03-01,3 years
+PRD002,Kingston A400 480GB,Storage,SATA SSD,Kingston,SUP001,49.99,22.0,active,2021-03-01,3 years
+PRD003,Kingston A400 960GB,Storage,SATA SSD,Kingston,SUP001,89.99,39.0,active,2021-03-01,3 years
+PRD004,Samsung 870 EVO 500GB,Storage,SATA SSD,Samsung,SUP002,79.99,35.0,active,2021-01-15,5 years
+PRD005,Samsung 870 EVO 1TB,Storage,SATA SSD,Samsung,SUP002,129.99,57.0,active,2021-01-15,5 years
+PRD006,Samsung 970 EVO 500GB,Storage,NVMe SSD,Samsung,SUP002,69.99,30.0,active,2020-06-01,5 years
+PRD007,Samsung 970 EVO 1TB,Storage,NVMe SSD,Samsung,SUP002,119.99,52.0,active,2020-06-01,5 years
+PRD008,Samsung 970 EVO 2TB,Storage,NVMe SSD,Samsung,SUP002,219.99,96.0,active,2020-06-01,5 years
+PRD009,WD Black SN850 1TB,Storage,NVMe SSD,WD,SUP013,109.99,48.0,active,2021-09-01,5 years
+PRD010,Seagate Barracuda 2TB,Storage,HDD,Seagate,SUP014,54.99,24.0,active,2019-05-01,2 years
+PRD011,Corsair Vengeance 8GB DDR4,Memory,DDR4 RAM,Corsair,SUP003,29.99,13.0,active,2019-01-01,Lifetime
+PRD012,Corsair Vengeance 16GB DDR4,Memory,DDR4 RAM,Corsair,SUP003,59.99,26.0,active,2019-01-01,Lifetime
+PRD013,Corsair Vengeance 32GB DDR4,Memory,DDR4 RAM,Corsair,SUP003,109.99,48.0,active,2019-01-01,Lifetime
+PRD014,G.Skill Trident Z5 16GB DDR5,Memory,DDR5 RAM,G.Skill,SUP004,79.99,35.0,active,2021-11-01,Lifetime
+PRD015,G.Skill Trident Z5 32GB DDR5,Memory,DDR5 RAM,G.Skill,SUP004,149.99,65.0,active,2021-11-01,Lifetime
+PRD016,G.Skill Trident Z5 64GB DDR5,Memory,DDR5 RAM,G.Skill,SUP004,289.99,126.0,active,2021-11-01,Lifetime
+PRD017,Kingston Fury Beast 16GB DDR4,Memory,DDR4 RAM,Kingston,SUP001,54.99,24.0,active,2020-03-01,Lifetime
+PRD018,ASUS ROG Strix B550-F,Motherboard,ATX AM4,ASUS,SUP005,219.99,96.0,active,2020-07-01,3 years
+PRD019,ASUS ROG Strix Z690-A,Motherboard,ATX LGA1700,ASUS,SUP005,319.99,140.0,active,2021-10-01,3 years
+PRD020,MSI MAG B550M MORTAR,Motherboard,mATX AM4,MSI,SUP006,129.99,57.0,active,2020-07-01,3 years
+PRD021,MSI PRO Z690-A,Motherboard,ATX LGA1700,MSI,SUP006,189.99,83.0,active,2021-10-01,3 years
+PRD022,Gigabyte B550 AORUS Elite,Motherboard,ATX AM4,Gigabyte,SUP007,169.99,74.0,active,2020-07-01,3 years
+PRD023,Gigabyte Z790 AORUS Master,Motherboard,ATX LGA1700,Gigabyte,SUP007,449.99,196.0,active,2022-09-01,3 years
+PRD024,Intel Core i3-12100,Processor,Intel LGA1700,Intel,SUP008,119.99,52.0,active,2022-01-01,3 years
+PRD025,Intel Core i5-12400,Processor,Intel LGA1700,Intel,SUP008,199.99,87.0,active,2022-01-01,3 years
+PRD026,Intel Core i7-12700K,Processor,Intel LGA1700,Intel,SUP008,369.99,161.0,active,2022-01-01,3 years
+PRD027,Intel Core i9-12900K,Processor,Intel LGA1700,Intel,SUP008,569.99,248.0,active,2022-01-01,3 years
+PRD028,AMD Ryzen 5 5600X,Processor,AMD AM4,AMD,SUP009,229.99,100.0,active,2020-11-01,3 years
+PRD029,AMD Ryzen 7 5800X3D,Processor,AMD AM4,AMD,SUP009,349.99,152.0,active,2022-04-01,3 years
+PRD030,AMD Ryzen 9 5900X,Processor,AMD AM4,AMD,SUP009,449.99,196.0,active,2020-11-01,3 years
+PRD031,AMD Ryzen 9 7900X,Processor,AMD AM5,AMD,SUP009,549.99,239.0,active,2022-09-01,3 years
+PRD032,NVIDIA RTX 3060 12GB,GPU,NVIDIA,NVIDIA,SUP010,329.99,144.0,active,2021-02-01,3 years
+PRD033,NVIDIA RTX 3070 8GB,GPU,NVIDIA,NVIDIA,SUP010,499.99,218.0,active,2020-10-01,3 years
+PRD034,NVIDIA RTX 3080 10GB,GPU,NVIDIA,NVIDIA,SUP010,699.99,305.0,active,2020-09-01,3 years
+PRD035,NVIDIA RTX 4070 12GB,GPU,NVIDIA,NVIDIA,SUP010,599.99,261.0,active,2023-04-01,3 years
+PRD036,NVIDIA RTX 4080 16GB,GPU,NVIDIA,NVIDIA,SUP010,1199.99,523.0,active,2022-11-01,3 years
+PRD037,AMD RX 6600 8GB,GPU,AMD,AMD,SUP009,289.99,126.0,active,2021-10-01,3 years
+PRD038,AMD RX 6700 XT 12GB,GPU,AMD,AMD,SUP009,399.99,174.0,active,2021-03-01,3 years
+PRD039,AMD RX 7900 XTX 24GB,GPU,AMD,AMD,SUP009,999.99,435.0,active,2022-12-01,3 years
+PRD040,Corsair RM650 Modular,PSU,Modular 80+ Gold,Corsair,SUP003,89.99,39.0,active,2020-01-01,10 years
+PRD041,Corsair RM750 Modular,PSU,Modular 80+ Gold,Corsair,SUP003,109.99,48.0,active,2020-01-01,10 years
+PRD042,Corsair RM850 Modular,PSU,Modular 80+ Gold,Corsair,SUP003,139.99,61.0,active,2020-01-01,10 years
+PRD043,EVGA SuperNOVA 650W,PSU,Semi-Modular 80+ Gold,EVGA,SUP011,89.99,39.0,active,2019-06-01,10 years
+PRD044,be quiet! Straight Power 850W,PSU,Modular 80+ Platinum,be quiet!,SUP015,169.99,74.0,active,2021-01-01,5 years
+PRD045,Noctua NH-D15,Cooler,Air Dual Tower,Noctua,SUP012,99.99,43.0,active,2014-04-01,6 years
+PRD046,Noctua NH-U12S,Cooler,Air Single Tower,Noctua,SUP012,69.99,30.0,active,2013-01-01,6 years
+PRD047,Corsair H100i RGB 240mm,Cooler,AIO 240mm,Corsair,SUP003,129.99,57.0,active,2019-07-01,5 years
+PRD048,Corsair H150i Elite 360mm,Cooler,AIO 360mm,Corsair,SUP003,169.99,74.0,active,2021-06-01,5 years
+PRD049,NZXT Kraken X73 360mm,Cooler,AIO 360mm,NZXT,SUP016,189.99,83.0,active,2020-09-01,6 years
+PRD050,DeepCool AK620,Cooler,Air Dual Tower,DeepCool,SUP017,54.99,24.0,active,2022-03-01,3 years

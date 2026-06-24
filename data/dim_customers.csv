@@ -1,0 +1,301 @@
+﻿customer_id,first_name,last_name,full_name,email,phone,city,state,country,segment,registration_date,birth_date,lifetime_value,status,preferred_channel
+CUS0001,Juliana,Silva,Juliana Silva,juliana.silva95@email.com,+55 80 92424-7912,Manaus,AM,Brazil,Individual,2021-09-08,2003-01-14,864.84,Active,In-Store
+CUS0002,Carla,Alves,Carla Alves,carla.alves84@email.com,+55 80 97873-4611,Recife,PE,Brazil,Small Business,2022-06-02,1995-03-06,1630.76,Inactive,Marketplace
+CUS0003,Aline,Moraes,Aline Moraes,aline.moraes28@email.com,+55 54 92674-2519,São Paulo,SP,Brazil,Small Business,2021-06-13,1985-04-06,2259.08,Inactive,In-Store
+CUS0004,André,Melo,André Melo,andré.melo69@email.com,+55 26 97201-2291,,GO,Brazil,Individual,2022-09-11,1971-12-13,5851.37,VIP,Phone
+CUS0005,Viviane,Barbosa,Viviane Barbosa,viviane.barbosa30@email.com,+55 48 92307-4814,Goiânia,GO,Brazil,Individual,2022-08-15,1973-02-13,414.3,Active,Reseller
+CUS0006,Aline,Rocha,Aline Rocha,juliana.silva95@email.com,+55 98 92169-3803,Goiânia,GO,Brazil,Individual,2021-06-16,1979-05-26,5377.89,VIP,Online
+CUS0007,Diego,Rocha,Diego Rocha,diego.rocha29@email.com,+55 98 96313-1916,Belém,PA,Brazil,Government,2021-10-04,1998-09-16,5520.89,Active,In-Store
+CUS0008,Carlos,Martins,Carlos Martins,carlos.martins41@email.com,+55 38 99179-7482,Manaus,AM,Brazil,Individual,2021-03-09,1995-06-11,7017.12,VIP,Reseller
+CUS0009,Fernanda,Lima,Fernanda Lima,fernanda.lima75@email.com,,Porto Alegre,RS,Brazil,Small Business,2021-09-10,1994-03-06,2138.8,Active,Online
+CUS0010,Eduardo,Nascimento,Eduardo Nascimento,eduardo.nascimento88@email.com,+55 65 92040-7304,Belo Horizonte,MG,Brazil,Enterprise,2021-02-18,1976-11-09,5038.2,Inactive,Marketplace
+CUS0011,Renata,Araújo,Renata Araújo,renata.araújo15@email.com,+55 98 99797-5371,Manaus,AM,Brazil,Enterprise,2022-07-21,1970-07-08,5458.25,VIP,Phone
+CUS0012,Juliana,Gomes,Juliana Gomes,juliana.gomes34@email.com,+55 75 93927-9317,Florianópolis,SC,Brazil,Individual,2021-06-11,2002-05-23,7013.03,Active,Phone
+CUS0013,Eduardo,Campos,Eduardo Campos,eduardo.campos68@email.com,+55 11 96310-9005,Fortaleza,CE,Brazil,Individual,2021-06-06,1977-03-31,4338.06,Active,In-Store
+CUS0014,Vanessa,Barbosa,Vanessa Barbosa,vanessa.barbosa11@email.com,+55 21 98962-2133,,RN,Brazil,Individual,2021-09-03,2009-05-21,4560.49,VIP,Online
+CUS0015,Bruno,Nunes,Bruno Nunes,bruno.nunes55@email.com,+55 38 99835-4295,Maceió,AL,Brazil,Individual,2022-07-17,1993-09-02,6985.84,VIP,Phone
+CUS0016,Isabela,Nunes,Isabela Nunes,juliana.silva95@email.com,+55 19 96539-1344,Goiânia,GO,Brazil,Enterprise,2022-03-25,1990-04-03,1011.98,VIP,Marketplace
+CUS0017,Gustavo,Cardoso,Gustavo Cardoso,gustavo.cardoso9@email.com,+55 15 96413-2160,Recife,PE,Brazil,Individual,2021-01-08,1998-04-23,518.05,VIP,Online
+CUS0018,Aline,Nunes,Aline Nunes,aline.nunes74@email.com,+55 84 98744-4981,Maceió,AL,Brazil,Individual,2021-08-08,2002-06-13,7487.34,Inactive,Reseller
+CUS0019,Thiago,Souza,Thiago Souza,thiago.souza94@email.com,,Curitiba,PR,Brazil,Individual,2022-11-06,1988-12-31,3318.26,Inactive,Phone
+CUS0020,Rafael,Pereira,Rafael Pereira,rafael.pereira36@email.com,+55 70 95092-2235,Fortaleza,CE,Brazil,Individual,2021-07-14,1976-04-15,3403.96,Inactive,Marketplace
+CUS0021,Rafael,Santos,Rafael Santos,rafael.santos22@email.com,+55 63 98956-8886,Campo Grande,MS,Brazil,Government,2021-01-16,2003-10-21,6797.13,Active,Reseller
+CUS0022,Ana,Ferreira,Ana Ferreira,ana.ferreira59@email.com,+55 47 97930-8973,Belém,PA,Brazil,Government,2021-01-03,1981-11-24,7415.82,Active,Online
+CUS0023,Rodrigo,Alves,Rodrigo Alves,rodrigo.alves8@email.com,+55 17 98811-9238,Rio de Janeiro,RJ,Brazil,Small Business,2022-08-17,1972-09-25,5996.41,VIP,Online
+CUS0024,Ana,Araújo,Ana Araújo,ana.araújo31@email.com,+55 62 92964-5033,,MG,Brazil,Individual,2021-07-10,1973-01-18,5417.94,VIP,Marketplace
+CUS0025,João,Campos,João Campos,joão.campos34@email.com,+55 37 96147-4910,Belo Horizonte,MG,Brazil,Small Business,2022-03-06,1995-05-10,4206.12,Inactive,Reseller
+CUS0026,Bruno,Nunes,Bruno Nunes,juliana.silva95@email.com,+55 69 92638-2200,Mossoró,RN,Brazil,Individual,2022-04-14,2003-09-23,7489.09,VIP,Online
+CUS0027,Eduardo,Lima,Eduardo Lima,eduardo.lima37@email.com,+55 31 98179-9900,Porto Alegre,RS,Brazil,Enterprise,2021-12-24,2009-06-10,1992.06,VIP,Phone
+CUS0028,Viviane,Moraes,Viviane Moraes,viviane.moraes85@email.com,+55 24 93200-5333,Teresina,PI,Brazil,Small Business,2021-01-09,1994-11-17,2430.06,Active,In-Store
+CUS0029,Claudia,Rodrigues,Claudia Rodrigues,claudia.rodrigues88@email.com,,Manaus,AM,Brazil,Small Business,2021-10-16,2002-03-11,2775.9,Inactive,Phone
+CUS0030,Ana,Oliveira,Ana Oliveira,ana.oliveira82@email.com,+55 44 93647-8239,Florianópolis,SC,Brazil,Individual,2021-10-11,1984-12-17,6180.4,VIP,Reseller
+CUS0031,Claudia,Silva,Claudia Silva,claudia.silva70@email.com,+55 15 97049-3426,Curitiba,PR,Brazil,Enterprise,2021-03-19,2000-12-30,7236.23,Inactive,Online
+CUS0032,João,Gomes,João Gomes,joão.gomes86@email.com,+55 24 96794-7658,Goiânia,GO,Brazil,Enterprise,2021-02-10,1979-06-04,5472.43,VIP,Online
+CUS0033,Larissa,Melo,Larissa Melo,larissa.melo43@email.com,+55 63 95065-5371,Salvador,BA,Brazil,Enterprise,2021-07-01,1971-02-11,1475.92,Active,In-Store
+CUS0034,Matheus,Melo,Matheus Melo,matheus.melo45@email.com,+55 50 94728-4652,,RJ,Brazil,Individual,2022-04-27,2006-08-18,7351.69,Active,Online
+CUS0035,Isabela,Costa,Isabela Costa,isabela.costa66@email.com,+55 62 99785-6425,Manaus,AM,Brazil,Government,2021-03-13,1982-07-10,2841.61,Active,In-Store
+CUS0036,Felipe,Ferreira,Felipe Ferreira,felipe.ferreira94@email.com,+55 51 98149-9379,João Pessoa,PB,Brazil,Individual,2021-09-29,1996-10-05,3504.78,Active,Reseller
+CUS0037,Ricardo,Alves,Ricardo Alves,ricardo.alves69@email.com,+55 98 94228-6967,Manaus,AM,Brazil,Small Business,2021-02-15,1970-01-28,4183.37,Inactive,In-Store
+CUS0038,Mariana,Campos,Mariana Campos,mariana.campos65@email.com,+55 50 97691-6344,Campinas,SP,Brazil,Enterprise,2022-11-11,2002-04-15,7205.37,Inactive,Phone
+CUS0039,Claudia,Rodrigues,Claudia Rodrigues,claudia.rodrigues23@email.com,,Fortaleza,CE,Brazil,Small Business,2022-03-07,1987-01-03,5434.68,VIP,In-Store
+CUS0040,Patricia,Gomes,Patricia Gomes,patricia.gomes60@email.com,+55 67 98244-4501,Fortaleza,CE,Brazil,Small Business,2022-03-17,1997-03-19,5254.91,VIP,Reseller
+CUS0041,Diego,Nunes,Diego Nunes,diego.nunes12@email.com,+55 41 96085-4680,Belo Horizonte,MG,Brazil,Individual,2021-10-18,1998-05-24,4973.12,Active,Online
+CUS0042,Maria,Santos,Maria Santos,maria.santos54@email.com,+55 91 94185-7291,Recife,PE,Brazil,Small Business,2022-05-02,2004-06-21,628.98,Inactive,Reseller
+CUS0043,Larissa,Rodrigues,Larissa Rodrigues,larissa.rodrigues90@email.com,+55 77 98611-1822,São Paulo,SP,Brazil,Small Business,2021-04-20,1979-10-26,1448.3,VIP,Online
+CUS0044,Juliana,Rocha,Juliana Rocha,juliana.rocha97@email.com,+55 67 99270-7991,,RS,Brazil,Small Business,2022-04-21,1995-01-27,4783.85,VIP,Reseller
+CUS0045,Diego,Correia,Diego Correia,diego.correia36@email.com,+55 77 98939-4919,Maceió,AL,Brazil,Individual,2022-04-06,1981-02-02,6726.91,Inactive,Reseller
+CUS0046,Pedro,Pinto,Pedro Pinto,pedro.pinto11@email.com,+55 28 93471-4788,Mossoró,RN,Brazil,Individual,2021-08-29,1984-05-05,7149.56,Inactive,Online
+CUS0047,Beatriz,Oliveira,Beatriz Oliveira,beatriz.oliveira27@email.com,+55 64 97381-1320,Florianópolis,SC,Brazil,Individual,2022-02-22,1990-11-25,3355.41,VIP,Reseller
+CUS0048,Henrique,Silva,Henrique Silva,henrique.silva54@email.com,+55 79 99947-4613,Goiânia,GO,Brazil,Small Business,2021-11-02,2008-04-13,7138.55,Inactive,Online
+CUS0049,Aline,Carvalho,Aline Carvalho,aline.carvalho52@email.com,+55 32 98657-3091,Maceió,AL,Brazil,Individual,2021-01-30,2000-01-02,5449.18,VIP,Marketplace
+CUS0050,Maria,Vieira,Maria Vieira,maria.vieira55@email.com,+55 28 98564-3977,Belém,PA,Brazil,Small Business,2022-08-30,1971-03-21,717.38,Active,Phone
+CUS0051,Matheus,Costa,Matheus Costa,matheus.costa36@email.com,+55 64 95133-2341,Fortaleza,Sao Paulo,Brazil,Individual,2022-04-11,2004-02-23,7043.14,Inactive,In-Store
+CUS0052,Marcelo,Santos,Marcelo Santos,marcelo.santos6@email.com,+55 14 95051-4266,Goiânia,RIO,Brazil,Small Business,2021-08-18,2005-01-16,7660.42,Active,Marketplace
+CUS0053,Fernanda,Pereira,Fernanda Pereira,fernanda.pereira60@email.com,+55 43 97043-3749,Porto Alegre,RS,Brazil,Small Business,2022-04-30,1995-04-20,7584.67,VIP,Marketplace
+CUS0054,Juliana,Teixeira,Juliana Teixeira,juliana.teixeira74@email.com,+55 97 97149-7498,Salvador,BA,Brazil,Individual,2021-11-15,1971-02-25,7434.65,VIP,Online
+CUS0055,Pedro,Cardoso,Pedro Cardoso,pedro.cardoso77@email.com,+55 26 91672-6688,Recife,PE,Brazil,Small Business,2021-04-15,1983-07-13,6809.83,VIP,Reseller
+CUS0056,Vanessa,Oliveira,Vanessa Oliveira,vanessa.oliveira63@email.com,+55 24 98102-6934,Teresina,PI,Brazil,Individual,2022-10-26,2008-02-10,3389.47,VIP,Reseller
+CUS0057,Fernanda,Carvalho,Fernanda Carvalho,fernanda.carvalho69@email.com,+55 72 98616-8136,Salvador,BA,Brazil,Government,2022-06-19,1982-02-12,4946.5,VIP,Marketplace
+CUS0058,Aline,Costa,Aline Costa,aline.costa60@email.com,+55 83 97209-6511,Recife,PE,Brazil,Individual,2021-03-30,1990-03-22,1988.71,Active,Reseller
+CUS0059,Carlos,Ferreira,Carlos Ferreira,carlos.ferreira77@email.com,+55 46 91166-9464,Maceió,AL,Brazil,Individual,2021-08-06,1981-08-03,2755.69,Active,In-Store
+CUS0060,Larissa,Correia,Larissa Correia,larissa.correia83@email.com,+55 73 98342-1282,Florianópolis,SC,Brazil,Small Business,2022-05-16,1980-10-12,5540.34,Active,Phone
+CUS0061,Gustavo,Martins,Gustavo Martins,gustavo.martins68@email.com,+55 55 97971-6419,Recife,PE,Brazil,Small Business,2021-11-10,1986-07-22,-3812.42,Inactive,Reseller
+CUS0062,Aline,Gomes,Aline Gomes,aline.gomes96@email.com,+55 79 94033-4138,Manaus,AM,Brazil,Individual,2021-08-25,1978-08-22,2558.61,Active,Reseller
+CUS0063,Aline,Correia,Aline Correia,aline.correia38@email.com,+55 40 96912-3939,João Pessoa,PB,Brazil,Small Business,2022-06-22,1974-07-06,6669.4,Inactive,In-Store
+CUS0064,Marcelo,Rodrigues,Marcelo Rodrigues,marcelo.rodrigues17@email.com,+55 92 99042-2680,Manaus,AM,Brazil,Government,2021-02-16,1994-10-28,2372.49,Active,Marketplace
+CUS0065,Rodrigo,Nascimento,Rodrigo Nascimento,rodrigo.nascimento62@email.com,+55 25 92070-7565,Maceió,AL,Brazil,Individual,2022-03-28,1972-04-21,2057.2,Inactive,In-Store
+CUS0066,Ricardo,Moreira,Ricardo Moreira,ricardo.moreira11@email.com,+55 42 92940-7818,Rio de Janeiro,RJ,Brazil,Individual,2021-06-05,1995-04-01,7595.55,VIP,Marketplace
+CUS0067,Viviane,Pereira,Viviane Pereira,viviane.pereira76@email.com,+55 65 96003-1986,Teresina,PI,Brazil,Individual,2022-01-25,1989-11-10,2413.96,VIP,In-Store
+CUS0068,Beatriz,Moreira,Beatriz Moreira,beatriz.moreira71@email.com,+55 20 93564-1043,Fortaleza,CE,Brazil,Small Business,2021-09-28,1977-01-17,1956.93,Inactive,Reseller
+CUS0069,Alexandre,Nascimento,Alexandre Nascimento,alexandre.nascimento59@email.com,+55 20 94824-5334,Mossoró,RN,Brazil,Individual,2021-02-03,2001-09-17,2297.61,VIP,Marketplace
+CUS0070,Thiago,Carvalho,Thiago Carvalho,thiago.carvalho19@email.com,+55 20 91977-3718,Curitiba,PR,Brazil,Individual,2022-07-12,1976-09-07,7271.87,Inactive,Marketplace
+CUS0071,Ricardo,Vieira,Ricardo Vieira,ricardo.vieira52@email.com,+55 45 99199-9847,Mossoró,RN,Brazil,Individual,2022-03-26,2000-11-22,-2467.52,Inactive,Reseller
+CUS0072,Carla,Campos,Carla Campos,carla.campos12@email.com,+55 40 91339-5415,Rio de Janeiro,RJ,Brazil,Small Business,2022-03-19,1997-01-30,2040.42,VIP,In-Store
+CUS0073,Camila,Nascimento,Camila Nascimento,camila.nascimento75@email.com,+55 66 99056-2494,Teresina,PI,Brazil,Individual,2022-10-30,1982-06-24,1492.84,Inactive,Phone
+CUS0074,Leonardo,Costa,Leonardo Costa,leonardo.costa89@email.com,+55 74 95722-7561,Campinas,SP,Brazil,Individual,2022-11-18,1977-03-19,2671.94,VIP,In-Store
+CUS0075,Renata,Oliveira,Renata Oliveira,renata.oliveira66@email.com,+55 11 99889-8569,Campinas,SP,Brazil,Individual,2021-09-16,2004-08-27,3263.19,Inactive,In-Store
+CUS0076,Thiago,Araújo,Thiago Araújo,thiago.araújo7@email.com,+55 37 95375-9998,Goiânia,GO,Brazil,Small Business,2022-09-30,1998-01-20,3564.23,Active,Phone
+CUS0077,Gabriel,Barbosa,Gabriel Barbosa,gabriel.barbosa31@email.com,+55 31 96091-1224,Maceió,AL,Brazil,Individual,2021-05-05,1998-04-06,4890.53,VIP,Reseller
+CUS0078,Carla,Pereira,Carla Pereira,carla.pereira64@email.com,+55 48 99337-5479,Curitiba,PR,Brazil,Enterprise,2022-04-18,1999-01-21,6665.54,Inactive,Reseller
+CUS0079,Henrique,Pereira,Henrique Pereira,henrique.pereira66@email.com,+55 28 92143-5526,Natal,RN,Brazil,Individual,2022-07-19,1978-07-20,7378.85,Inactive,Phone
+CUS0080,Eduardo,Lima,Eduardo Lima,eduardo.lima85@email.com,+55 73 93434-8316,São Paulo,SP,Brazil,Small Business,2021-10-17,2007-07-27,4716.15,VIP,Reseller
+CUS0081,André,Costa,André Costa,andré.costa90@email.com,+55 41 97274-4826,Campo Grande,MS,Brazil,Individual,2022-07-11,1984-06-08,6963.33,Inactive,In-Store
+CUS0082,Carlos,Correia,Carlos Correia,carlos.correia85@email.com,+55 94 93492-9115,Maceió,AL,Brazil,Enterprise,2022-12-24,1987-02-07,3119.33,Active,Online
+CUS0083,Eduardo,Cardoso,Eduardo Cardoso,eduardo.cardoso59@email.com,+55 12 93361-7717,Campinas,SP,Brazil,Enterprise,2021-04-13,1989-10-01,842.71,VIP,Online
+CUS0084,Pedro,Nascimento,Pedro Nascimento,pedro.nascimento43@email.com,+55 97 99742-7226,Manaus,AM,Brazil,Small Business,2021-12-13,1987-10-31,5216.2,Inactive,Reseller
+CUS0085,Marcelo,Santos,Marcelo Santos,marcelo.santos30@email.com,+55 22 98110-2612,Aracaju,SE,Brazil,Individual,2021-03-12,2000-09-13,7371.39,VIP,In-Store
+CUS0086,Gabriel,Ferreira,Gabriel Ferreira,gabriel.ferreira46@email.com,+55 58 98056-3385,Mossoró,RN,Brazil,Individual,2021-01-30,2005-09-18,496.15,Active,Marketplace
+CUS0087,Leonardo,Cardoso,Leonardo Cardoso,leonardo.cardoso80@email.com,+55 98 94945-9153,Salvador,BA,Brazil,Individual,2021-06-24,1997-05-04,6973.17,VIP,Online
+CUS0088,Gustavo,Rocha,Gustavo Rocha,gustavo.rocha60@email.com,+55 47 99955-3588,Manaus,AM,Brazil,Individual,2022-04-16,1970-06-03,7196.32,Active,Reseller
+CUS0089,André,Cardoso,André Cardoso,andré.cardoso39@email.com,+55 36 97302-8916,Mossoró,RN,Brazil,Government,2022-10-17,2000-12-19,2038.28,Active,Online
+CUS0090,Matheus,Cardoso,Matheus Cardoso,matheus.cardoso85@email.com,+55 61 95497-1132,Goiânia,GO,Brazil,Individual,2022-08-12,2001-05-14,2397.08,VIP,In-Store
+CUS0091,Alexandre,Correia,Alexandre Correia,alexandre.correia46@email.com,+55 39 94115-5106,Maceió,AL,Brazil,Small Business,2021-10-21,1980-04-28,4876.17,VIP,Online
+CUS0092,Rafael,Barbosa,Rafael Barbosa,rafael.barbosa94@email.com,+55 27 92476-5835,Rio de Janeiro,RJ,Brazil,Small Business,2021-11-13,1971-07-01,4657.61,Inactive,Reseller
+CUS0093,Camila,Alves,Camila Alves,camila.alves35@email.com,+55 32 95210-8894,Porto Alegre,RS,Brazil,Enterprise,2022-07-07,1986-05-31,4270.28,Inactive,Phone
+CUS0094,Juliana,Rocha,Juliana Rocha,juliana.rocha93@email.com,+55 97 97511-6992,Belo Horizonte,MG,Brazil,Small Business,2021-05-25,1980-02-14,6888.12,Active,Reseller
+CUS0095,Lucas,Lima,Lucas Lima,lucas.lima34@email.com,+55 85 97242-7086,Campo Grande,MS,Brazil,Individual,2021-05-07,2000-03-07,6004.64,Active,Online
+CUS0096,Henrique,Silva,Henrique Silva,henrique.silva9@email.com,+55 92 98606-5951,Aracaju,SE,Brazil,Individual,2022-07-29,1997-05-14,1809.87,VIP,Reseller
+CUS0097,Juliana,Rodrigues,Juliana Rodrigues,juliana.rodrigues31@email.com,+55 79 93222-7367,Rio de Janeiro,RJ,Brazil,Individual,2021-02-08,1992-02-06,973.16,Inactive,Phone
+CUS0098,Marcelo,Carvalho,Marcelo Carvalho,marcelo.carvalho63@email.com,+55 89 97686-5583,João Pessoa,PB,Brazil,Enterprise,2021-06-08,1999-05-19,837.22,Active,Phone
+CUS0099,Beatriz,Rocha,Beatriz Rocha,beatriz.rocha48@email.com,+55 80 96876-1992,Natal,RN,Brazil,Enterprise,2021-08-30,1974-06-16,7848.38,Inactive,Phone
+CUS0100,Thiago,Souza,Thiago Souza,thiago.souza3@email.com,+55 17 96464-4990,Natal,RN,Brazil,Small Business,2021-04-04,1998-10-14,5133.97,Active,Marketplace
+CUS0101,Beatriz,Oliveira,Beatriz Oliveira,beatriz.oliveira43@email.com,+55 29 91046-5542,Campo Grande,MS,Brazil,Small Business,2021-08-01,2006-06-22,6964.08,Active,Online
+CUS0102,Marcelo,Lima,Marcelo Lima,marcelo.lima46@email.com,+55 41 96304-1258,Salvador,BA,Brazil,Small Business,2021-04-23,1971-02-27,1097.84,Active,Phone
+CUS0103,Ana,Rodrigues,Ana Rodrigues,ana.rodrigues47@email.com,+55 76 92786-8405,Florianópolis,SC,Brazil,Individual,2022-06-23,1972-11-07,3836.16,VIP,Online
+CUS0104,Viviane,Santos,Viviane Santos,viviane.santos62@email.com,+55 62 97984-2768,Teresina,PI,Brazil,Individual,2021-11-05,1971-05-26,533.56,Inactive,Reseller
+CUS0105,Pedro,Barbosa,Pedro Barbosa,pedro.barbosa80@email.com,+55 92 99984-6327,Belo Horizonte,MG,Brazil,Small Business,2021-11-26,1972-12-12,1053.22,Inactive,Marketplace
+CUS0106,Tatiana,Gomes,Tatiana Gomes,tatiana.gomes15@email.com,+55 94 94522-8046,Natal,RN,Brazil,Small Business,2022-06-02,1974-06-13,6355.11,Inactive,Online
+CUS0107,Leonardo,Costa,Leonardo Costa,leonardo.costa41@email.com,+55 96 95176-7132,Natal,RN,Brazil,Individual,2022-02-13,1974-04-07,2534.76,Active,Reseller
+CUS0108,Pedro,Oliveira,Pedro Oliveira,pedro.oliveira17@email.com,+55 82 91982-6400,Belo Horizonte,MG,Brazil,Individual,2021-04-06,2003-05-27,5923.43,VIP,In-Store
+CUS0109,Leonardo,Ribeiro,Leonardo Ribeiro,leonardo.ribeiro14@email.com,+55 84 99313-4485,Florianópolis,SC,Brazil,Government,2021-02-22,1996-12-07,2533.97,Active,Reseller
+CUS0110,Gustavo,Melo,Gustavo Melo,gustavo.melo36@email.com,+55 84 94705-8030,Curitiba,PR,Brazil,Enterprise,2021-12-25,1986-06-28,963.34,VIP,Marketplace
+CUS0111,Viviane,Nunes,Viviane Nunes,viviane.nunes35@email.com,+55 14 93955-5477,Campo Grande,MS,Brazil,Small Business,2021-01-27,1999-07-05,6644.21,VIP,Phone
+CUS0112,Mariana,Ribeiro,Mariana Ribeiro,mariana.ribeiro9@email.com,+55 29 91502-2503,São Paulo,SP,Brazil,Enterprise,2021-07-05,1995-05-28,5275.89,VIP,Marketplace
+CUS0113,Beatriz,Martins,Beatriz Martins,beatriz.martins42@email.com,+55 83 92391-1861,Florianópolis,SC,Brazil,Individual,2022-04-10,1986-08-07,2527.52,Active,Online
+CUS0114,Viviane,Santos,Viviane Santos,viviane.santos57@email.com,+55 64 95475-4531,Belo Horizonte,MG,Brazil,Individual,2021-10-06,1989-01-08,3911.01,VIP,In-Store
+CUS0115,André,Carvalho,André Carvalho,andré.carvalho86@email.com,+55 50 91744-4612,Curitiba,PR,Brazil,Small Business,2021-10-18,1996-08-09,3918.73,Inactive,Marketplace
+CUS0116,Ana,Silva,Ana Silva,ana.silva33@email.com,+55 48 96375-2965,Fortaleza,CE,Brazil,Enterprise,2021-11-05,2004-06-03,1141.02,Active,Reseller
+CUS0117,Natalia,Ferreira,Natalia Ferreira,natalia.ferreira86@email.com,+55 56 92180-7505,Porto Alegre,RS,Brazil,Individual,2022-01-25,1980-04-28,4027.09,VIP,In-Store
+CUS0118,Natalia,Silva,Natalia Silva,natalia.silva52@email.com,+55 92 97843-5743,Natal,RN,Brazil,Enterprise,2021-03-21,1995-10-30,3462.81,Active,Reseller
+CUS0119,Maria,Costa,Maria Costa,maria.costa12@email.com,+55 66 92734-4986,Salvador,BA,Brazil,Individual,2022-09-25,2000-12-07,7362.17,Inactive,Marketplace
+CUS0120,Isabela,Araújo,Isabela Araújo,isabela.araújo43@email.com,+55 32 92251-9363,Belo Horizonte,MG,Brazil,Enterprise,2022-02-10,2003-06-16,2749.13,VIP,In-Store
+CUS0121,Tatiana,Araújo,Tatiana Araújo,tatiana.araújo19@email.com,+55 41 92684-3399,Fortaleza,CE,Brazil,Individual,2021-12-24,2006-09-26,5181.27,Inactive,Online
+CUS0122,Camila,Campos,Camila Campos,camila.campos60@email.com,+55 83 98354-6295,Porto Alegre,RS,Brazil,Individual,2022-11-03,2004-09-01,5042.19,VIP,Phone
+CUS0123,Fernanda,Rocha,Fernanda Rocha,fernanda.rocha76@email.com,+55 18 96766-9312,Belo Horizonte,MG,Brazil,Individual,2022-04-26,1983-08-02,6380.82,Active,Phone
+CUS0124,Renata,Rocha,Renata Rocha,renata.rocha12@email.com,+55 89 99307-7299,Rio de Janeiro,RJ,Brazil,Individual,2021-02-28,1982-11-17,660.01,Inactive,Marketplace
+CUS0125,Claudia,Moraes,Claudia Moraes,claudia.moraes42@email.com,+55 88 98792-9214,Rio de Janeiro,RJ,Brazil,Enterprise,2022-04-06,1995-08-24,5232.11,Active,In-Store
+CUS0126,Gabriel,Souza,Gabriel Souza,gabriel.souza91@email.com,+55 67 98199-9586,Campinas,SP,Brazil,Individual,2021-03-28,1977-09-28,361.18,VIP,Marketplace
+CUS0127,Diego,Ribeiro,Diego Ribeiro,diego.ribeiro77@email.com,+55 17 96482-2079,Goiânia,GO,Brazil,Individual,2021-10-17,2004-09-27,2740.02,Inactive,In-Store
+CUS0128,Claudia,Nunes,Claudia Nunes,claudia.nunes78@email.com,+55 30 96461-2335,Belém,PA,Brazil,Individual,2021-10-18,2008-03-14,5269.68,VIP,Online
+CUS0129,André,Gomes,André Gomes,andré.gomes49@email.com,+55 93 96381-3093,Belém,PA,Brazil,Small Business,2021-05-13,1973-10-20,2511.18,VIP,Marketplace
+CUS0130,Carla,Moreira,Carla Moreira,carla.moreira28@email.com,+55 54 98967-4145,Florianópolis,SC,Brazil,Individual,2022-06-05,1986-04-07,2505.49,Active,Online
+CUS0131,Fernanda,Oliveira,Fernanda Oliveira,fernanda.oliveira68@email.com,+55 15 96517-3147,Mossoró,RN,Brazil,Individual,2021-04-14,1994-03-19,6689.2,VIP,Reseller
+CUS0132,Fernanda,Ferreira,Fernanda Ferreira,fernanda.ferreira93@email.com,+55 67 91715-7731,Salvador,BA,Brazil,Small Business,2022-12-11,2006-04-17,7226.12,Inactive,Online
+CUS0133,Gabriel,Campos,Gabriel Campos,gabriel.campos61@email.com,+55 35 97026-8218,Mossoró,RN,Brazil,Individual,2022-04-05,1980-09-23,2510.27,Inactive,Phone
+CUS0134,Matheus,Araújo,Matheus Araújo,matheus.araújo78@email.com,+55 28 95096-1854,Teresina,PI,Brazil,Government,2022-03-05,2006-08-23,1637.6,VIP,Reseller
+CUS0135,Vanessa,Dias,Vanessa Dias,vanessa.dias11@email.com,+55 31 95469-8361,Curitiba,PR,Brazil,Enterprise,2022-12-30,2008-03-07,1041.19,VIP,Online
+CUS0136,Natalia,Oliveira,Natalia Oliveira,natalia.oliveira51@email.com,+55 75 97126-4862,Recife,PE,Brazil,Enterprise,2022-04-07,1971-03-13,3348.43,Inactive,In-Store
+CUS0137,Vanessa,Pereira,Vanessa Pereira,vanessa.pereira43@email.com,+55 29 93254-1627,São Paulo,SP,Brazil,Enterprise,2021-11-23,2007-08-24,5731.9,Inactive,Reseller
+CUS0138,Bruno,Teixeira,Bruno Teixeira,bruno.teixeira28@email.com,+55 30 99991-9647,Maceió,AL,Brazil,Small Business,2022-04-05,1973-07-22,201.08,Inactive,In-Store
+CUS0139,Rodrigo,Pereira,Rodrigo Pereira,rodrigo.pereira80@email.com,+55 69 92029-2816,Mossoró,RN,Brazil,Individual,2021-05-05,1988-10-31,5129.67,Inactive,Marketplace
+CUS0140,Marcelo,Silva,Marcelo Silva,marcelo.silva1@email.com,+55 89 96780-4941,Teresina,PI,Brazil,Individual,2022-08-12,1976-06-10,2365.61,VIP,Reseller
+CUS0141,Camila,Nunes,Camila Nunes,camila.nunes70@email.com,+55 75 99316-1333,Belo Horizonte,MG,Brazil,Government,2022-06-21,1973-01-13,7629.56,Inactive,Reseller
+CUS0142,João,Moreira,João Moreira,joão.moreira9@email.com,+55 55 94950-2698,Belém,PA,Brazil,Individual,2022-01-18,1970-09-24,2888.9,VIP,Phone
+CUS0143,Bruno,Santos,Bruno Santos,bruno.santos88@email.com,+55 70 98840-3986,Goiânia,GO,Brazil,Individual,2022-07-14,1998-11-01,1441.96,Active,In-Store
+CUS0144,Renata,Santos,Renata Santos,renata.santos41@email.com,+55 50 99444-7524,Mossoró,RN,Brazil,Individual,2021-07-26,1978-12-13,7092.03,VIP,Reseller
+CUS0145,Felipe,Santos,Felipe Santos,felipe.santos84@email.com,+55 53 95476-3039,Fortaleza,CE,Brazil,Individual,2021-10-20,2005-01-10,430.04,Inactive,Reseller
+CUS0146,Isabela,Correia,Isabela Correia,isabela.correia64@email.com,+55 58 99507-5369,Natal,RN,Brazil,Individual,2022-01-31,1978-05-19,3994.82,Active,Reseller
+CUS0147,Carla,Carvalho,Carla Carvalho,carla.carvalho42@email.com,+55 95 95843-6021,Aracaju,SE,Brazil,Individual,2021-07-04,1984-05-29,865.65,Inactive,Marketplace
+CUS0148,Natalia,Ferreira,Natalia Ferreira,natalia.ferreira46@email.com,+55 89 98126-5498,Natal,RN,Brazil,Individual,2021-12-26,2002-08-09,6966.8,VIP,In-Store
+CUS0149,Pedro,Nunes,Pedro Nunes,pedro.nunes4@email.com,+55 29 98179-1570,Belém,PA,Brazil,Individual,2022-01-08,2003-08-22,5451.31,Active,In-Store
+CUS0150,Larissa,Teixeira,Larissa Teixeira,larissa.teixeira20@email.com,+55 97 98371-7077,Goiânia,GO,Brazil,Individual,2022-01-06,1995-06-12,307.46,Inactive,Reseller
+CUS0151,Pedro,Cardoso,Pedro Cardoso,pedro.cardoso32@email.com,+55 25 91424-4048,Porto Alegre,RS,Brazil,Individual,2022-06-27,1984-02-07,5214.01,Inactive,Marketplace
+CUS0152,Matheus,Vieira,Matheus Vieira,matheus.vieira28@email.com,+55 89 95678-9047,Campo Grande,MS,Brazil,Individual,2021-05-01,1981-09-04,5647.1,Active,In-Store
+CUS0153,Bruno,Melo,Bruno Melo,bruno.melo12@email.com,+55 98 96236-6692,Belo Horizonte,MG,Brazil,Individual,2022-04-08,2001-12-31,3588.63,VIP,In-Store
+CUS0154,Claudia,Dias,Claudia Dias,claudia.dias90@email.com,+55 92 93852-6922,Mossoró,RN,Brazil,Enterprise,2021-11-04,2001-12-06,5691.03,VIP,Online
+CUS0155,Juliana,Alves,Juliana Alves,juliana.alves74@email.com,+55 58 98657-3126,Porto Alegre,RS,Brazil,Small Business,2021-08-31,1971-03-07,2919.13,VIP,In-Store
+CUS0156,Pedro,Gomes,Pedro Gomes,pedro.gomes74@email.com,+55 20 93053-6194,Belém,PA,Brazil,Individual,2022-05-06,2004-07-02,3305.0,VIP,In-Store
+CUS0157,Gabriel,Rocha,Gabriel Rocha,gabriel.rocha82@email.com,+55 86 93981-3114,Teresina,PI,Brazil,Individual,2021-12-19,2007-03-11,6253.09,Inactive,Marketplace
+CUS0158,Ana,Ramos,Ana Ramos,ana.ramos91@email.com,+55 39 96669-9501,Curitiba,PR,Brazil,Individual,2022-06-15,1977-05-21,1337.64,Inactive,In-Store
+CUS0159,Felipe,Alves,Felipe Alves,felipe.alves12@email.com,+55 75 93762-3526,Campo Grande,MS,Brazil,Individual,2021-10-09,1983-08-02,4934.7,Active,Marketplace
+CUS0160,Alexandre,Costa,Alexandre Costa,alexandre.costa83@email.com,+55 84 95336-4453,João Pessoa,PB,Brazil,Enterprise,2021-02-12,1971-04-10,695.72,VIP,Reseller
+CUS0161,Viviane,Moreira,Viviane Moreira,viviane.moreira39@email.com,+55 72 95012-7653,São Paulo,SP,Brazil,Enterprise,2022-05-25,1994-06-22,2352.89,Inactive,Reseller
+CUS0162,Pedro,Pinto,Pedro Pinto,pedro.pinto44@email.com,+55 88 93353-6121,Rio de Janeiro,RJ,Brazil,Individual,2021-06-11,1991-09-21,3742.32,VIP,Phone
+CUS0163,André,Martins,André Martins,andré.martins60@email.com,+55 26 95382-8366,Porto Alegre,RS,Brazil,Individual,2022-01-15,1974-10-06,2586.97,Active,Online
+CUS0164,Rafael,Santos,Rafael Santos,rafael.santos21@email.com,+55 52 96123-4110,Mossoró,RN,Brazil,Enterprise,2022-01-29,1988-10-03,2023.75,Active,Reseller
+CUS0165,Eduardo,Rocha,Eduardo Rocha,eduardo.rocha65@email.com,+55 69 94944-4524,Maceió,AL,Brazil,Individual,2021-11-12,1974-01-15,7564.6,VIP,Phone
+CUS0166,Ana,Santos,Ana Santos,ana.santos61@email.com,+55 47 99793-1133,Mossoró,RN,Brazil,Small Business,2022-05-22,2007-10-23,5251.37,Active,Reseller
+CUS0167,Bruno,Barbosa,Bruno Barbosa,bruno.barbosa7@email.com,+55 83 94189-6939,Manaus,AM,Brazil,Small Business,2022-01-10,1986-06-01,409.68,VIP,Phone
+CUS0168,Pedro,Martins,Pedro Martins,pedro.martins80@email.com,+55 98 92946-3108,Teresina,PI,Brazil,Small Business,2022-04-07,1982-07-19,6611.22,Active,Reseller
+CUS0169,Vanessa,Moraes,Vanessa Moraes,vanessa.moraes78@email.com,+55 76 97576-9193,Campinas,SP,Brazil,Enterprise,2022-07-26,2003-11-13,1196.93,Active,In-Store
+CUS0170,João,Rodrigues,João Rodrigues,joão.rodrigues66@email.com,+55 28 96373-6218,Campinas,SP,Brazil,Individual,2022-05-01,1976-09-06,4869.77,Active,Reseller
+CUS0171,Viviane,Correia,Viviane Correia,viviane.correia63@email.com,+55 83 95911-8780,Mossoró,RN,Brazil,Individual,2022-08-31,2007-02-26,4102.23,Active,Phone
+CUS0172,Mariana,Nunes,Mariana Nunes,mariana.nunes89@email.com,+55 91 91436-8775,Curitiba,PR,Brazil,Small Business,2022-03-03,2005-09-28,7195.2,Inactive,Marketplace
+CUS0173,Ricardo,Pereira,Ricardo Pereira,ricardo.pereira80@email.com,+55 59 93421-4968,Rio de Janeiro,RJ,Brazil,Individual,2022-08-21,1993-07-08,5050.75,Active,Marketplace
+CUS0174,Juliana,Alves,Juliana Alves,juliana.alves27@email.com,+55 63 99221-8726,São Paulo,SP,Brazil,Individual,2022-03-28,1976-10-17,3333.03,VIP,In-Store
+CUS0175,Bruno,Araújo,Bruno Araújo,bruno.araújo49@email.com,+55 51 93837-8531,Fortaleza,CE,Brazil,Individual,2022-07-29,1999-09-15,3853.05,VIP,Phone
+CUS0176,Marcelo,Ribeiro,Marcelo Ribeiro,marcelo.ribeiro39@email.com,+55 39 95876-5735,Manaus,AM,Brazil,Individual,2022-09-17,1981-01-21,2268.1,VIP,Online
+CUS0177,Daniela,Costa,Daniela Costa,daniela.costa37@email.com,+55 26 99899-7220,Maceió,AL,Brazil,Small Business,2021-12-24,2005-09-05,5787.23,Inactive,Phone
+CUS0178,Fernanda,Gomes,Fernanda Gomes,fernanda.gomes57@email.com,+55 94 95201-8849,Rio de Janeiro,RJ,Brazil,Government,2021-10-22,1973-07-18,2803.59,Active,Online
+CUS0179,Marcelo,Lima,Marcelo Lima,marcelo.lima76@email.com,+55 41 94972-1831,Campo Grande,MS,Brazil,Individual,2022-12-14,1974-11-25,4944.63,VIP,Marketplace
+CUS0180,Gustavo,Moreira,Gustavo Moreira,gustavo.moreira13@email.com,+55 98 93252-1084,Recife,PE,Brazil,Individual,2021-02-23,1984-10-25,5753.0,VIP,Online
+CUS0181,Leonardo,Moreira,Leonardo Moreira,leonardo.moreira42@email.com,+55 47 91969-2465,Maceió,AL,Brazil,Small Business,2022-05-04,2003-11-28,7713.12,VIP,Marketplace
+CUS0182,Gustavo,Dias,Gustavo Dias,gustavo.dias5@email.com,+55 61 99116-4052,Rio de Janeiro,RJ,Brazil,Individual,2021-06-29,2007-07-29,1447.52,VIP,Phone
+CUS0183,João,Silva,João Silva,joão.silva83@email.com,+55 80 99590-9092,Mossoró,RN,Brazil,Small Business,2022-08-05,1985-01-11,2312.27,Active,Marketplace
+CUS0184,Renata,Lima,Renata Lima,renata.lima33@email.com,+55 34 91230-6523,Fortaleza,CE,Brazil,Individual,2021-04-26,2002-10-18,3698.37,Inactive,Marketplace
+CUS0185,Thiago,Ferreira,Thiago Ferreira,thiago.ferreira42@email.com,+55 22 97567-2562,Aracaju,SE,Brazil,Enterprise,2022-10-17,2007-02-05,3450.24,Active,Online
+CUS0186,Henrique,Costa,Henrique Costa,henrique.costa35@email.com,+55 53 95947-1187,Recife,PE,Brazil,Individual,2021-01-07,1980-07-25,3601.55,Inactive,Phone
+CUS0187,Larissa,Santos,Larissa Santos,larissa.santos91@email.com,+55 50 92923-5833,Curitiba,PR,Brazil,Individual,2022-04-22,1988-03-09,5504.29,Inactive,Marketplace
+CUS0188,Gustavo,Pereira,Gustavo Pereira,gustavo.pereira48@email.com,+55 64 99998-8714,Porto Alegre,RS,Brazil,Individual,2022-05-05,2003-07-17,7911.26,VIP,Online
+CUS0189,Larissa,Nunes,Larissa Nunes,larissa.nunes10@email.com,+55 83 92838-2011,Aracaju,SE,Brazil,Individual,2021-03-25,1993-09-10,5644.94,VIP,Marketplace
+CUS0190,Thiago,Cardoso,Thiago Cardoso,thiago.cardoso15@email.com,+55 98 94365-9008,Campo Grande,MS,Brazil,Individual,2021-06-03,2008-04-30,4186.72,Active,Marketplace
+CUS0191,Gabriel,Moraes,Gabriel Moraes,gabriel.moraes8@email.com,+55 82 98575-6049,Rio de Janeiro,RJ,Brazil,Individual,2022-04-10,1988-08-20,3681.55,VIP,In-Store
+CUS0192,Isabela,Lima,Isabela Lima,isabela.lima90@email.com,+55 19 99866-1987,São Paulo,SP,Brazil,Small Business,2021-08-12,1972-01-13,3418.39,Active,Reseller
+CUS0193,João,Gomes,João Gomes,joão.gomes94@email.com,+55 93 97887-7135,Florianópolis,SC,Brazil,Small Business,2021-07-04,2004-05-09,5150.12,Inactive,Reseller
+CUS0194,Matheus,Martins,Matheus Martins,matheus.martins84@email.com,+55 55 92943-3924,Belo Horizonte,MG,Brazil,Government,2022-12-01,2009-03-25,4337.44,VIP,Reseller
+CUS0195,Tatiana,Rodrigues,Tatiana Rodrigues,tatiana.rodrigues93@email.com,+55 80 97948-9715,Recife,PE,Brazil,Small Business,2021-01-04,1983-05-21,3730.88,Inactive,Online
+CUS0196,Larissa,Rocha,Larissa Rocha,larissa.rocha15@email.com,+55 15 97868-1256,Goiânia,GO,Brazil,Individual,2021-06-08,2009-04-05,5813.94,Active,Online
+CUS0197,Pedro,Souza,Pedro Souza,pedro.souza7@email.com,+55 42 91724-7590,Aracaju,SE,Brazil,Individual,2021-02-04,2000-02-23,5641.13,Inactive,Online
+CUS0198,Marcelo,Alves,Marcelo Alves,marcelo.alves94@email.com,+55 84 96224-6253,Rio de Janeiro,RJ,Brazil,Individual,2021-05-24,1982-12-23,1911.58,Active,Phone
+CUS0199,Fernanda,Nunes,Fernanda Nunes,fernanda.nunes76@email.com,+55 33 97999-9120,Teresina,PI,Brazil,Individual,2021-08-15,1982-05-06,534.61,Active,Phone
+CUS0200,Matheus,Moraes,Matheus Moraes,matheus.moraes49@email.com,+55 34 99813-8758,Teresina,PI,Brazil,Small Business,2021-11-23,1988-04-24,1236.28,Active,Online
+CUS0201,Patricia,Melo,Patricia Melo,patricia.melo54@email.com,+55 82 99683-3196,Porto Alegre,RS,Brazil,Enterprise,2022-04-20,1995-03-25,3330.79,Inactive,Online
+CUS0202,Felipe,Alves,Felipe Alves,felipe.alves12@email.com,+55 79 94120-1844,Campinas,SP,Brazil,Individual,2022-10-25,1990-03-06,6784.71,Inactive,Reseller
+CUS0203,Alexandre,Campos,Alexandre Campos,alexandre.campos86@email.com,+55 82 94555-8854,Rio de Janeiro,RJ,Brazil,Individual,2021-03-16,2004-03-02,4721.29,Active,Phone
+CUS0204,Patricia,Vieira,Patricia Vieira,patricia.vieira97@email.com,+55 72 94974-4350,São Paulo,SP,Brazil,Enterprise,2021-08-05,2003-04-06,982.66,Inactive,Online
+CUS0205,Claudia,Costa,Claudia Costa,claudia.costa34@email.com,+55 57 99401-9147,Mossoró,RN,Brazil,Individual,2022-01-25,1999-02-06,2906.11,Inactive,In-Store
+CUS0206,Henrique,Teixeira,Henrique Teixeira,henrique.teixeira29@email.com,+55 29 91265-5272,Campinas,SP,Brazil,Individual,2021-07-28,1988-07-26,413.44,VIP,Marketplace
+CUS0207,Monica,Correia,Monica Correia,monica.correia73@email.com,+55 42 99180-6530,Florianópolis,SC,Brazil,Individual,2021-10-30,1984-10-18,1878.65,Inactive,Reseller
+CUS0208,Daniela,Rocha,Daniela Rocha,daniela.rocha24@email.com,+55 80 91962-9584,Salvador,BA,Brazil,Individual,2021-12-27,2002-04-24,4395.04,Active,In-Store
+CUS0209,Ana,Teixeira,Ana Teixeira,ana.teixeira91@email.com,+55 30 91149-4583,São Paulo,SP,Brazil,Individual,2022-02-27,1998-04-17,1889.9,VIP,Reseller
+CUS0210,Vanessa,Santos,Vanessa Santos,vanessa.santos85@email.com,+55 73 91257-1108,Aracaju,SE,Brazil,Small Business,2022-10-16,1997-08-28,7306.37,VIP,Marketplace
+CUS0211,Leonardo,Silva,Leonardo Silva,leonardo.silva3@email.com,+55 75 98054-3937,São Paulo,SP,Brazil,Small Business,2022-06-27,1994-01-12,7820.96,Active,In-Store
+CUS0212,Tatiana,Rodrigues,Tatiana Rodrigues,tatiana.rodrigues35@email.com,+55 61 92294-7112,Recife,PE,Brazil,Small Business,2021-07-16,1981-04-28,6530.95,Inactive,Reseller
+CUS0213,Ricardo,Pereira,Ricardo Pereira,ricardo.pereira84@email.com,+55 15 92531-7640,Recife,PE,Brazil,Small Business,2021-11-04,2008-01-13,690.9,Inactive,Reseller
+CUS0214,Claudia,Nascimento,Claudia Nascimento,claudia.nascimento56@email.com,+55 93 96427-2562,Rio de Janeiro,RJ,Brazil,Individual,2022-10-15,1977-09-08,707.35,VIP,In-Store
+CUS0215,Gustavo,Alves,Gustavo Alves,gustavo.alves36@email.com,+55 80 91539-3938,João Pessoa,PB,Brazil,Individual,2022-05-02,1973-05-03,5491.21,Inactive,In-Store
+CUS0216,Beatriz,Cardoso,Beatriz Cardoso,beatriz.cardoso73@email.com,+55 41 97375-9856,Porto Alegre,RS,Brazil,Enterprise,2022-12-31,1973-06-14,2429.25,Inactive,Reseller
+CUS0217,Bruno,Moraes,Bruno Moraes,bruno.moraes56@email.com,+55 40 92245-6580,Belo Horizonte,MG,Brazil,Small Business,2022-05-28,1985-07-07,476.89,VIP,Marketplace
+CUS0218,Alexandre,Martins,Alexandre Martins,alexandre.martins63@email.com,+55 40 96829-7150,Campinas,SP,Brazil,Small Business,2021-01-31,2005-02-23,7941.06,Inactive,Online
+CUS0219,Monica,Nunes,Monica Nunes,monica.nunes92@email.com,+55 20 92344-5390,Belém,PA,Brazil,Small Business,2021-03-29,1983-04-02,6394.54,Active,Reseller
+CUS0220,Fernanda,Correia,Fernanda Correia,fernanda.correia40@email.com,+55 67 96896-5419,Belém,PA,Brazil,Individual,2021-11-21,1974-02-08,91.3,Active,Online
+CUS0221,Carla,Ferreira,Carla Ferreira,carla.ferreira4@email.com,+55 22 96798-2524,Florianópolis,SC,Brazil,Small Business,2022-04-05,1992-12-26,3293.95,VIP,Marketplace
+CUS0222,Carlos,Melo,Carlos Melo,carlos.melo93@email.com,+55 82 94977-9537,Belém,PA,Brazil,Individual,2021-01-13,1987-05-25,6244.39,Active,Reseller
+CUS0223,Diego,Rodrigues,Diego Rodrigues,diego.rodrigues56@email.com,+55 46 97899-5911,Manaus,AM,Brazil,Individual,2021-11-05,1976-07-18,552.97,Inactive,In-Store
+CUS0224,Vanessa,Lima,Vanessa Lima,vanessa.lima14@email.com,+55 28 95991-1110,Recife,PE,Brazil,Individual,2022-10-03,1997-08-30,1604.61,Inactive,Phone
+CUS0225,Viviane,Martins,Viviane Martins,viviane.martins84@email.com,+55 87 93230-5922,Campinas,SP,Brazil,Individual,2022-03-27,2006-07-31,6597.11,Inactive,Marketplace
+CUS0226,Thiago,Nascimento,Thiago Nascimento,thiago.nascimento89@email.com,+55 92 99044-4971,Campinas,SP,Brazil,Government,2021-07-01,1984-04-25,2367.01,Inactive,Reseller
+CUS0227,Aline,Ramos,Aline Ramos,aline.ramos70@email.com,+55 34 91440-8563,Belém,PA,Brazil,Individual,2022-01-09,1995-04-18,1638.41,VIP,Online
+CUS0228,Gabriel,Moraes,Gabriel Moraes,gabriel.moraes53@email.com,+55 97 99180-3280,Mossoró,RN,Brazil,Individual,2022-12-11,2008-01-12,6375.47,VIP,Phone
+CUS0229,Larissa,Lima,Larissa Lima,larissa.lima77@email.com,+55 72 97566-9755,Porto Alegre,RS,Brazil,Small Business,2022-03-10,1973-04-26,3620.08,VIP,Reseller
+CUS0230,Marcelo,Santos,Marcelo Santos,marcelo.santos11@email.com,+55 24 95067-6816,Goiânia,GO,Brazil,Enterprise,2022-12-20,1994-01-31,4770.87,Active,Marketplace
+CUS0231,João,Cardoso,João Cardoso,joão.cardoso13@email.com,+55 44 94637-9366,Belém,PA,Brazil,Government,2021-12-06,1989-04-23,892.26,VIP,Marketplace
+CUS0232,Claudia,Cardoso,Claudia Cardoso,claudia.cardoso87@email.com,+55 86 99199-3469,João Pessoa,PB,Brazil,Individual,2021-08-15,1987-07-19,3731.35,Inactive,In-Store
+CUS0233,Henrique,Souza,Henrique Souza,henrique.souza94@email.com,+55 29 96707-6110,Mossoró,RN,Brazil,Enterprise,2022-03-02,1973-11-07,972.75,Inactive,Reseller
+CUS0234,Beatriz,Araújo,Beatriz Araújo,beatriz.araújo58@email.com,+55 51 92100-5919,Maceió,AL,Brazil,Individual,2021-12-23,1989-08-27,5789.85,Active,In-Store
+CUS0235,Maria,Melo,Maria Melo,maria.melo95@email.com,+55 42 99454-3858,Campinas,SP,Brazil,Individual,2022-10-26,2005-11-21,1356.62,VIP,Online
+CUS0236,Mariana,Dias,Mariana Dias,mariana.dias24@email.com,+55 92 98080-7481,Florianópolis,SC,Brazil,Individual,2022-04-19,1988-03-03,5056.59,Active,Marketplace
+CUS0237,Thiago,Rocha,Thiago Rocha,thiago.rocha36@email.com,+55 19 92667-9796,João Pessoa,PB,Brazil,Individual,2022-03-16,2001-08-12,1757.63,Active,Phone
+CUS0238,Carlos,Alves,Carlos Alves,carlos.alves82@email.com,+55 51 97367-7431,Natal,RN,Brazil,Individual,2021-04-27,2008-09-11,3941.4,VIP,In-Store
+CUS0239,André,Ribeiro,André Ribeiro,andré.ribeiro39@email.com,+55 89 92388-3194,Natal,RN,Brazil,Individual,2022-09-25,2000-03-20,5662.61,Inactive,In-Store
+CUS0240,Larissa,Gomes,Larissa Gomes,larissa.gomes54@email.com,+55 87 93258-7286,Curitiba,PR,Brazil,Individual,2021-07-07,1976-05-05,4111.06,Inactive,Online
+CUS0241,Daniela,Moreira,Daniela Moreira,daniela.moreira63@email.com,+55 47 93298-4065,Campo Grande,MS,Brazil,Enterprise,2022-12-12,1977-10-09,4461.55,Inactive,Reseller
+CUS0242,Viviane,Santos,Viviane Santos,viviane.santos72@email.com,+55 75 99109-7703,Goiânia,GO,Brazil,Individual,2021-01-10,1978-10-02,6530.97,VIP,Reseller
+CUS0243,Leonardo,Pinto,Leonardo Pinto,leonardo.pinto98@email.com,+55 39 95785-1535,Natal,RN,Brazil,Individual,2022-05-16,1995-05-13,295.34,Inactive,Online
+CUS0244,Marcelo,Gomes,Marcelo Gomes,marcelo.gomes71@email.com,+55 76 92854-2871,Salvador,BA,Brazil,Small Business,2022-04-14,2004-08-27,6139.06,Inactive,Marketplace
+CUS0245,Vanessa,Dias,Vanessa Dias,vanessa.dias84@email.com,+55 42 95877-1528,Rio de Janeiro,RJ,Brazil,Individual,2022-03-28,1989-01-26,864.21,Inactive,Phone
+CUS0246,André,Melo,André Melo,andré.melo31@email.com,+55 37 96744-8015,Belo Horizonte,MG,Brazil,Enterprise,2022-03-26,1975-04-08,6216.27,Active,Marketplace
+CUS0247,Bruno,Moraes,Bruno Moraes,bruno.moraes36@email.com,+55 87 99827-3758,Fortaleza,CE,Brazil,Enterprise,2021-07-31,1995-07-29,2838.98,Inactive,Phone
+CUS0248,Rodrigo,Cardoso,Rodrigo Cardoso,rodrigo.cardoso18@email.com,+55 63 91971-5543,Manaus,AM,Brazil,Government,2022-06-11,2000-06-21,6530.69,VIP,Online
+CUS0249,Bruno,Pereira,Bruno Pereira,bruno.pereira87@email.com,+55 61 99019-3329,Porto Alegre,RS,Brazil,Individual,2022-12-30,1981-02-07,6103.72,VIP,Phone
+CUS0250,Leonardo,Martins,Leonardo Martins,leonardo.martins52@email.com,+55 76 95558-7046,Natal,RN,Brazil,Small Business,2021-03-19,2009-06-24,6162.63,Inactive,Reseller
+CUS0251,Carlos,Cardoso,Carlos Cardoso,carlos.cardoso90@email.com,+55 56 92037-9756,São Paulo,SP,Brazil,Small Business,2021-04-06,1990-07-26,5096.98,Inactive,Online
+CUS0252,Natalia,Ramos,Natalia Ramos,natalia.ramos71@email.com,+55 84 93139-8951,Fortaleza,CE,Brazil,Individual,2022-05-22,2007-02-27,2304.56,Inactive,In-Store
+CUS0253,João,Souza,João Souza,joão.souza59@email.com,+55 11 98009-4314,Natal,RN,Brazil,Individual,2021-01-17,2008-06-21,1305.97,VIP,Online
+CUS0254,Patricia,Ferreira,Patricia Ferreira,patricia.ferreira86@email.com,+55 94 93711-1848,Manaus,AM,Brazil,Small Business,2021-04-06,1981-03-26,705.24,Inactive,Phone
+CUS0255,Gustavo,Carvalho,Gustavo Carvalho,gustavo.carvalho17@email.com,+55 86 94705-9510,Belo Horizonte,MG,Brazil,Individual,2022-12-22,1979-07-29,3840.61,VIP,Reseller
+CUS0256,Lucas,Silva,Lucas Silva,lucas.silva62@email.com,+55 20 94751-7276,Campinas,SP,Brazil,Government,2021-05-04,1988-12-11,5567.55,Active,In-Store
+CUS0257,Rafael,Costa,Rafael Costa,rafael.costa18@email.com,+55 93 93340-2120,Goiânia,GO,Brazil,Individual,2021-11-03,2004-09-11,6516.27,VIP,Marketplace
+CUS0258,Lucas,Campos,Lucas Campos,lucas.campos20@email.com,+55 63 98248-4559,Salvador,BA,Brazil,Individual,2022-03-27,1979-07-23,5043.24,Active,In-Store
+CUS0259,Bruno,Teixeira,Bruno Teixeira,bruno.teixeira41@email.com,+55 28 95059-5537,Curitiba,PR,Brazil,Small Business,2022-08-27,1985-10-08,7707.83,VIP,In-Store
+CUS0260,Larissa,Dias,Larissa Dias,larissa.dias89@email.com,+55 14 95942-4366,Aracaju,SE,Brazil,Small Business,2022-09-07,1982-10-13,6242.81,VIP,Marketplace
+CUS0261,Eduardo,Alves,Eduardo Alves,eduardo.alves31@email.com,+55 74 97322-2847,Belém,PA,Brazil,Small Business,2021-10-30,2005-02-27,7188.4,Active,Reseller
+CUS0262,Alexandre,Oliveira,Alexandre Oliveira,alexandre.oliveira73@email.com,+55 64 96986-9951,Teresina,PI,Brazil,Government,2021-01-13,1984-03-13,1099.26,VIP,Online
+CUS0263,Henrique,Teixeira,Henrique Teixeira,henrique.teixeira6@email.com,+55 18 97520-9300,Belo Horizonte,MG,Brazil,Small Business,2021-01-18,1970-08-14,2134.37,Inactive,Marketplace
+CUS0264,Leonardo,Carvalho,Leonardo Carvalho,leonardo.carvalho36@email.com,+55 21 96077-2294,Belém,PA,Brazil,Small Business,2021-03-26,1994-02-12,4947.57,VIP,Online
+CUS0265,Fernanda,Dias,Fernanda Dias,fernanda.dias88@email.com,+55 93 92083-6081,Campinas,SP,Brazil,Small Business,2022-02-05,2004-03-27,6684.49,VIP,Reseller
+CUS0266,Larissa,Santos,Larissa Santos,larissa.santos78@email.com,+55 18 96067-3877,Recife,PE,Brazil,Enterprise,2021-03-30,1975-03-16,3654.31,Active,In-Store
+CUS0267,Bruno,Pinto,Bruno Pinto,bruno.pinto93@email.com,+55 44 93735-7092,São Paulo,SP,Brazil,Individual,2021-06-17,1985-07-21,4207.89,Active,Phone
+CUS0268,Juliana,Teixeira,Juliana Teixeira,juliana.teixeira34@email.com,+55 84 92262-9128,São Paulo,SP,Brazil,Enterprise,2021-12-10,1982-03-15,4214.64,Inactive,Marketplace
+CUS0269,Vanessa,Santos,Vanessa Santos,vanessa.santos14@email.com,+55 84 92889-4742,Maceió,AL,Brazil,Individual,2022-08-04,1977-01-21,2078.17,VIP,Marketplace
+CUS0270,Lucas,Santos,Lucas Santos,lucas.santos20@email.com,+55 33 91579-7870,São Paulo,SP,Brazil,Individual,2021-09-08,1986-04-30,3094.69,Active,Phone
+CUS0271,Larissa,Carvalho,Larissa Carvalho,larissa.carvalho65@email.com,+55 97 91862-3938,Campinas,SP,Brazil,Enterprise,2021-10-05,1995-08-22,3013.82,Active,Marketplace
+CUS0272,João,Martins,João Martins,joão.martins42@email.com,+55 22 98483-1130,Belo Horizonte,MG,Brazil,Enterprise,2022-04-22,2004-09-12,6766.53,Inactive,Online
+CUS0273,Rodrigo,Cardoso,Rodrigo Cardoso,rodrigo.cardoso64@email.com,+55 36 99954-5016,Mossoró,RN,Brazil,Individual,2022-09-30,1986-07-09,4753.94,Active,In-Store
+CUS0274,Leonardo,Silva,Leonardo Silva,leonardo.silva2@email.com,+55 53 91023-7164,Recife,PE,Brazil,Individual,2022-07-09,2007-08-30,5563.01,VIP,Phone
+CUS0275,Rafael,Alves,Rafael Alves,rafael.alves19@email.com,+55 46 92524-1719,Teresina,PI,Brazil,Individual,2021-09-01,1972-09-08,7781.85,Active,Marketplace
+CUS0276,Leonardo,Pinto,Leonardo Pinto,leonardo.pinto65@email.com,+55 28 97461-2226,Goiânia,GO,Brazil,Government,2022-04-15,1973-10-23,4667.13,VIP,Marketplace
+CUS0277,Ana,Carvalho,Ana Carvalho,ana.carvalho51@email.com,+55 52 96211-8417,Porto Alegre,RS,Brazil,Individual,2021-08-31,2008-03-03,2554.32,Inactive,Online
+CUS0278,Pedro,Alves,Pedro Alves,pedro.alves60@email.com,+55 51 97660-2978,Porto Alegre,RS,Brazil,Individual,2022-08-22,1974-09-28,1356.78,VIP,Phone
+CUS0279,Beatriz,Rocha,Beatriz Rocha,beatriz.rocha88@email.com,+55 49 91660-4522,Mossoró,RN,Brazil,Individual,2022-04-20,1975-05-19,768.85,Inactive,Online
+CUS0280,Carla,Pinto,Carla Pinto,carla.pinto34@email.com,+55 33 91509-7625,Recife,PE,Brazil,Individual,2021-12-31,1972-03-13,5433.61,Inactive,Marketplace
+CUS0281,Claudia,Pereira,Claudia Pereira,claudia.pereira2@email.com,+55 18 94641-3141,Curitiba,PR,Brazil,Individual,2022-04-19,2005-08-10,1161.35,Active,Reseller
+CUS0282,Vanessa,Nunes,Vanessa Nunes,vanessa.nunes9@email.com,+55 36 98265-3110,Belo Horizonte,MG,Brazil,Small Business,2022-08-20,2006-06-17,646.15,Active,Phone
+CUS0283,Juliana,Santos,Juliana Santos,juliana.santos93@email.com,+55 61 99128-1483,Natal,RN,Brazil,Individual,2021-02-21,1995-09-29,3493.59,Inactive,Reseller
+CUS0284,Camila,Ribeiro,Camila Ribeiro,camila.ribeiro5@email.com,+55 89 95026-5835,Fortaleza,CE,Brazil,Individual,2021-07-11,1990-01-03,7073.22,Inactive,Reseller
+CUS0285,Claudia,Nascimento,Claudia Nascimento,claudia.nascimento83@email.com,+55 78 95082-9907,Rio de Janeiro,RJ,Brazil,Individual,2021-03-31,1976-02-27,3382.92,Active,Reseller
+CUS0286,André,Nascimento,André Nascimento,andré.nascimento50@email.com,+55 45 93946-1427,Campo Grande,MS,Brazil,Individual,2022-05-12,1995-05-17,4044.03,Inactive,Marketplace
+CUS0287,Gustavo,Silva,Gustavo Silva,gustavo.silva99@email.com,+55 85 94813-3615,Manaus,AM,Brazil,Enterprise,2021-03-01,1991-02-28,4258.99,Active,Online
+CUS0288,Larissa,Lima,Larissa Lima,larissa.lima50@email.com,+55 56 93846-3885,Campo Grande,MS,Brazil,Small Business,2021-02-27,1979-11-04,4626.75,Active,Marketplace
+CUS0289,Carlos,Moraes,Carlos Moraes,carlos.moraes73@email.com,+55 83 93328-4084,Goiânia,GO,Brazil,Individual,2022-08-29,2001-06-04,2845.87,Inactive,Marketplace
+CUS0290,Patricia,Ferreira,Patricia Ferreira,patricia.ferreira3@email.com,+55 78 98831-1011,Maceió,AL,Brazil,Individual,2021-02-08,1980-06-08,4833.22,Inactive,Marketplace
+CUS0291,Thiago,Moraes,Thiago Moraes,thiago.moraes42@email.com,+55 18 91359-3420,Porto Alegre,RS,Brazil,Small Business,2021-12-15,2005-12-29,6762.06,VIP,Online
+CUS0292,Juliana,Melo,Juliana Melo,juliana.melo85@email.com,+55 61 92655-6514,Teresina,PI,Brazil,Government,2022-01-09,1986-10-04,5651.08,Inactive,Phone
+CUS0293,Bruno,Ferreira,Bruno Ferreira,bruno.ferreira91@email.com,+55 82 96846-4657,Florianópolis,SC,Brazil,Government,2022-10-17,1999-02-14,2572.4,VIP,Marketplace
+CUS0294,Camila,Martins,Camila Martins,camila.martins90@email.com,+55 84 97415-1530,Mossoró,RN,Brazil,Individual,2022-12-07,1977-12-21,5844.21,Active,Marketplace
+CUS0295,Carlos,Vieira,Carlos Vieira,carlos.vieira19@email.com,+55 53 92274-4899,Aracaju,SE,Brazil,Small Business,2021-08-15,1974-09-02,7496.67,Inactive,Phone
+CUS0296,Diego,Moreira,Diego Moreira,diego.moreira58@email.com,+55 12 95345-4435,Belo Horizonte,MG,Brazil,Small Business,2022-12-27,2002-09-18,7098.9,Active,In-Store
+CUS0297,André,Lima,André Lima,andré.lima22@email.com,+55 63 99078-7204,Curitiba,PR,Brazil,Individual,2021-01-02,1989-08-28,5874.05,Inactive,Marketplace
+CUS0298,Matheus,Souza,Matheus Souza,matheus.souza58@email.com,+55 20 91547-5831,Maceió,AL,Brazil,Small Business,2022-08-15,2000-10-28,1843.38,Active,Phone
+CUS0299,Felipe,Souza,Felipe Souza,felipe.souza10@email.com,+55 81 92525-6536,Belo Horizonte,MG,Brazil,Individual,2021-12-17,1986-11-04,1329.19,VIP,Marketplace
+CUS0300,Henrique,Pinto,Henrique Pinto,henrique.pinto56@email.com,+55 31 91877-2659,São Paulo,SP,Brazil,Enterprise,2022-03-18,1977-05-27,4878.18,Inactive,Online

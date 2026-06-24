@@ -1,0 +1,21 @@
+﻿promo_id,promo_code,promo_type,start_date,end_date,discount_rate,discount_pct,applicable_category,status,usage_limit
+PRM001,PROMO001,Clearance,2022-07-14,2022-07-30,0.26,26,Cooler,Upcoming,185
+PRM002,PROMO002,Percentage Discount,2023-11-08,2023-11-20,0.14,14,All Products,Expired,342
+PRM003,PROMO003,Percentage Discount,2023-07-17,2023-08-15,0.2,20,Memory,Active,268
+PRM004,PROMO004,Clearance,2022-03-31,2022-04-12,0.3,30,Processor,Expired,152
+PRM005,PROMO005,Clearance,2022-04-10,2022-04-13,0.11,11,Memory,Active,292
+PRM006,PROMO006,Bundle,2022-04-29,2022-05-11,0.29,29,GPU,Upcoming,185
+PRM007,PROMO007,Fixed Discount,2022-04-04,2022-04-27,0.21,21,Memory,Expired,239
+PRM008,PROMO008,Bundle,2022-07-11,2022-07-28,0.06,6,GPU,Expired,165
+PRM009,PROMO009,Clearance,2022-10-03,2022-10-24,0.07,7,Cooler,Active,93
+PRM010,PROMO010,Bundle,2023-11-16,2023-11-30,0.29,29,Processor,Active,333
+PRM011,PROMO011,Flash Sale,2022-03-04,2022-04-02,0.17,17,GPU,Upcoming,401
+PRM012,PROMO012,Bundle,2023-05-02,2023-05-23,0.31,31,Memory,Active,252
+PRM013,PROMO013,Flash Sale,2022-02-05,2022-02-24,0.22,22,Processor,Upcoming,367
+PRM014,PROMO014,Bundle,2022-05-31,2022-06-06,0.33,33,Storage,Active,158
+PRM015,PROMO015,Percentage Discount,2022-07-17,2022-07-24,0.06,6,Cooler,Expired,153
+PRM016,PROMO016,Buy X Get Y,2023-10-05,2023-10-12,0.3,30,Memory,Upcoming,463
+PRM017,PROMO017,Bundle,2022-03-10,2022-03-15,0.17,17,Processor,Expired,488
+PRM018,PROMO018,Percentage Discount,2022-10-10,2022-10-29,0.19,19,Cooler,Upcoming,350
+PRM019,PROMO019,Bundle,2023-06-20,2023-07-18,0.18,18,Storage,Active,340
+PRM020,PROMO020,Percentage Discount,2023-08-26,2023-09-16,0.28,28,All Products,Upcoming,449
